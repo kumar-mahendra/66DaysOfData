@@ -14,7 +14,7 @@ This has 3 benefits :
 - The community holds you accountable. This is often the missing piece for many people looking to learn new skills.<br/>
 
 
-I will record the daily progress here for upcoming 66 days including today ! . Also I will share progress on my Linkedin . I am very Excited for the Journey :wink: 
+I will record the daily progress here for upcoming 66 days including today ! . Also I will share progress on my [Linkedin](https://www.linkedin.com/in/kumar-mahendra/) . I am very Excited for the Journey :wink: 
 
 ### Day 1 
 <br/>----------------------------------------------------------------------------------------------------------------------------------<br/>
@@ -22,6 +22,18 @@ Today I started by brushing up basic python programming skills and start learnin
 - **NumPy** : A powerful scientific computing library
 - **Pandas**: A library used for data manipulation and analysis 
 
-If needed ,You can see the required Jupyter notebooks that I used in the folder **Jupyter Notebooks Used**.
+*If needed ,You can see the required Jupyter notebooks that I used for learning these. I got these during my internship at **VERZEO**.Links are:-*
+- [python introduction](https://github.com/kumar-mahendra/66DaysOfData/blob/main/1_Introduction_to_python.ipynb)
+- [pandas library](https://github.com/kumar-mahendra/66DaysOfData/blob/main/2_Pandas_Library.ipynb)
+
+<br/>-----------------------------------------------------------------------------------------------------------------------------------<br/>
+
+### Day 2 
+
+Today I did two things : 
+- Attended the discussion session-1 on the topic "Probability theory and probabilistic Models" which was conducted by one of our senior Abhishek Varghese, where I learned a new concept, the Sigma field, and also learned about probabilistic models. It was fun.
+
+- Also, started reading the book "AI and Machine Learning for Coders" by Laurence Moroney. I read the first chapter which was all about an introduction to TensorFlow.
+I also wrote my first code( [link](https://github.com/kumar-mahendra/66DaysOfData/blob/main/single_neuron.ipynb)) which is simple sequential one neuron model to find relationship between two variables made with help of keras API of tensorflow.
 
 <br/>-----------------------------------------------------------------------------------------------------------------------------------<br/>
