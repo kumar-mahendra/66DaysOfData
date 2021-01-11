@@ -18,6 +18,10 @@ I will record the daily progress here for upcoming 66 days including today ! . A
 
 ### Day 1 
 <br/>----------------------------------------------------------------------------------------------------------------------------------<br/>
+Today I started by brushing up basic python programming skills and start learning two freuenctly used libraries in python which are,
+- **NumPy** : A powerful scientific computing library
+- **Pandas**: A library used for data manipulation and analysis 
 
+If needed ,You can see the required Jupyter notebooks that I used in the folder **Jupyter Notebooks Used**.
 
 <br/>-----------------------------------------------------------------------------------------------------------------------------------<br/>
