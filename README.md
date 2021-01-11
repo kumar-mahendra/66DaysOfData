@@ -25,6 +25,7 @@ Today I started by brushing up basic python programming skills and start learnin
 *If needed ,You can see the required Jupyter notebooks that I used for learning these. I got these during my internship at **VERZEO**.Links are:-*
 - [python introduction](https://github.com/kumar-mahendra/66DaysOfData/blob/main/1_Introduction_to_python.ipynb)
 - [pandas library](https://github.com/kumar-mahendra/66DaysOfData/blob/main/2_Pandas_Library.ipynb)
+- [numpy library](https://github.com/kumar-mahendra/66DaysOfData/blob/main/3_Intro_to_Numpy.ipynb)
 
 <br/>-----------------------------------------------------------------------------------------------------------------------------------<br/>
 
