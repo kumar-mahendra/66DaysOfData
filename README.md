@@ -35,6 +35,26 @@ Today I did two things :
 - Attended the discussion session-1 on the topic "Probability theory and probabilistic Models" which was conducted by one of our senior Abhishek Varghese, where I learned a new concept, the Sigma field, and also learned about probabilistic models. It was fun.
 
 - Also, started reading the book "AI and Machine Learning for Coders" by Laurence Moroney. I read the first chapter which was all about an introduction to TensorFlow.
-I also wrote my first code( [link](https://github.com/kumar-mahendra/66DaysOfData/blob/main/single_neuron.ipynb)) which is simple sequential one neuron model to find relationship between two variables made with help of keras API of tensorflow.
+I also wrote my first code( [link](https://github.com/kumar-mahendra/66DaysOfData/blob/main/single_neuron.ipynb)) which is simple sequential one 
+neuron model to find relationship between two variables made with help of keras API of tensorflow.
 
 <br/>-----------------------------------------------------------------------------------------------------------------------------------<br/>
+
+### Day 3
+
+Continued reading the book "AI and ML for Coders"
+- Finished chapter-2 i.e. "Introduction to Computer Vision". I learned how to make a very basic computer vision neural network([code]()) using the clothing dataset -Fashion MNIST. but it was a somewhat limited model as data use only monochromic images and each image contains only one cloth type. In reality, images are mostly colorful and contain more than one object. This problem can be solved using techniques like convolutions that can help us to extract features of images, which I will continue tomorrow.
+
+<br/>-----------------------------------------------------------------------------------------------------------------------------------<br/>
+
+### Day 4 
+
+Today I learned a few more interesting concepts which are:
+
+- Convolution ( or filtering ) and pooling ( a way to reduce the size of an image while retaining features of images),
+- Also learned about a technique -"Dropout regularization", which is useful to avoid overfitting of convolutional neural networks.
+
+Parallelly, applied those techniques to build two simple models that can distinguish between dogs vs cats, horse vs human.
+
+<br/>-----------------------------------------------------------------------------------------------------------------------------------<br/>
+
