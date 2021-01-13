@@ -43,7 +43,7 @@ neuron model to find relationship between two variables made with help of keras 
 ### Day 3
 
 Continued reading the book "AI and ML for Coders"
-- Finished chapter-2 i.e. "Introduction to Computer Vision". I learned how to make a very basic computer vision neural network([code]()) using the clothing dataset -Fashion MNIST. but it was a somewhat limited model as data use only monochromic images and each image contains only one cloth type. In reality, images are mostly colorful and contain more than one object. This problem can be solved using techniques like convolutions that can help us to extract features of images, which I will continue tomorrow.
+- Finished chapter-2 i.e. "Introduction to Computer Vision". I learned how to make a very basic computer vision neural network([code](https://github.com/kumar-mahendra/66DaysOfData/blob/main/simple_multi_neuron.ipynb)) using the clothing dataset -Fashion MNIST. but it was a somewhat limited model as data use only monochromic images and each image contains only one cloth type. In reality, images are mostly colorful and contain more than one object. This problem can be solved using techniques like convolutions that can help us to extract features of images, which I will continue tomorrow.
 
 <br/>-----------------------------------------------------------------------------------------------------------------------------------<br/>
 
