@@ -58,3 +58,9 @@ Parallelly, applied those techniques to build two simple models that can disting
 
 <br/>-----------------------------------------------------------------------------------------------------------------------------------<br/>
 
+### Day 5
+
+Today I haven't read book. I realised I have to also see mathematics behind some algorithms and before that It is required to have sound foundation of basic probability and statistics concepts. So I revised notes of probability and statistics using [this notebook.](https://github.com/kumar-mahendra/66DaysOfData/blob/main/4_Probability%20%20and_Statistics%20.ipynb)
+
+<br/>-----------------------------------------------------------------------------------------------------------------------------------<br/>
+
