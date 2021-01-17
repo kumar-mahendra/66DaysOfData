@@ -64,3 +64,9 @@ Today I haven't read book. I realised I have to also see mathematics behind some
 
 <br/>-----------------------------------------------------------------------------------------------------------------------------------<br/>
 
+### Day 6 
+
+Bunk Day!!
+Given day I enjoyed our college's (IIT GOA)  very first Technical Fest "Cepeus" . I participated in all events I could like CTFs, Competitive Programming etc. 
+
+<br/>-----------------------------------------------------------------------------------------------------------------------------------<b
