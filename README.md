@@ -78,11 +78,20 @@ Wached a TED talk by Fei Fei li, A Computer Vision Expert on [Youtube](https://w
 Today I started next chapter "Tensorflow-Datasets" in "ML and AI for coders".Get introduced to tensorflow-datasets.
 Also came to know about a very interesting data vizualization library, `bokeh` . Solved Tutorial 1 & 2 from their git-hub repository.
 
-`Good News` : I made my first contribution on `bokeh` tutorials I was solving.Feels good!!
+`Good News` :I made my first contribution on `bokeh` tutorials I was solving.Feels good!!
 
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
 
 ### Day 8 
 
+`Good news` : My application on Coursera for Financial Aid for "Data Scientists Toolbox" gets approved.:fire::fire:
+
+Completed Week 1 on above mentioned specialization . To know more about this click [here](https://www.coursera.org/learn/data-scientists-tools).
 
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
+
+### Day 9 
+
+
+<br/>-----------------------------------------------------------------------------------------------------------------<br/>
+
