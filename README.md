@@ -88,10 +88,24 @@ Also came to know about a very interesting data vizualization library, `bokeh` .
 
 Completed Week 1 on above mentioned specialization . To know more about this click [here](https://www.coursera.org/learn/data-scientists-tools).
 
+Summary of Week 1:
+- What is data and data Science? Some cool projects in data science (examples)
+- Process of a data Science project :
+  - Asking a Question which need answer 
+  - Finding relevent data
+  - Data Cleaning and Explore the data
+  - Draw Conclusion 
+  - Lastly, publish/share results through medium of blogs/article etc. 
+  
+
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
 
 ### Day 9 
 
-
+Completed Week 2 & started Week 3 in "Data Scientists Toolbox" .
+Summary of what I learnt :
+- Introduction to R and R Studio , getting familirialize with IDE i.e RStudio and get to know about R Packages
+- Version Control System like Git and How to use GitHub
+ 
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
 
