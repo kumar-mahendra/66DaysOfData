@@ -111,6 +111,16 @@ Summary of what I learnt :
 
 ### Day 10 
 
-mahendra kumar's first life
+:star: Today was a day of full-fillment . Successfully completed "Data Scientists Toolbox" course . :smiley: :smiley: 
+
+Summarizing Todays Learning : 
+- Linked GitHub to RStudio and learned how to commit and push to Repository and pull from repository etc. etc. 
+- Last Part was quite interesting , Get to know about how to design a experiment/setup your project , difference between various types of data analysis techniques and when to use them and when not. 
+- Finally course ended with an introduction to Big Data and Why it is Buzz nowdays . Challenges and Advantages to Big Data .
+
+`Next Target` : Apply for next course in Data Science Specialization. <br/>
+
+From next day I will resume reading my book "AI and Machine learning for Coders". Planning to soon start a interesting project....search in progress.:eyes: :eyes:
+
 
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
