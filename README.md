@@ -124,3 +124,13 @@ From next day I will resume reading my book "AI and Machine learning for Coders"
 
 
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
+
+### Day 11 
+
+Today I have practice all remaining  `bokeh` Tutorials( at least tried) [here](https://github.com/bokeh/bokeh-notebooks/tree/main/tutorial). Honestly, these tutorials involved Javascript and Web development at some places so I ignored them completely :sweat_smile: :sweat_smile: 
+
+>KeyTakeAway -  Leaned something that can help me make my future projects looks attractive :sunglasses:
+
+`future aspect` : Will get back to it after I will learn JavaScript.
+<br/>-----------------------------------------------------------------------------------------------------------------<br/>
+
