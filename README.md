@@ -134,3 +134,19 @@ Today I have practice all remaining  `bokeh` Tutorials( at least tried) [here](h
 `future aspect` : Will get back to it after I will learn JavaScript.
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
 
+### Day 12 
+
+Today I did a small EDA project on `blood-pressure` dataset just for fun . Here I made a interactive plot using bokeh-library I learned . It was a fun experience. 
+project code and demostration is present [here]().
+
+<br/>-----------------------------------------------------------------------------------------------------------------<br/>
+
+
+
+
+
+
+
+
+
+
