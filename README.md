@@ -137,10 +137,22 @@ Today I have practice all remaining  `bokeh` Tutorials( at least tried) [here](h
 ### Day 12 
 
 Today I did a small EDA project on `blood-pressure` dataset just for fun . Here I made a interactive plot using bokeh-library I learned . It was a fun experience. 
-project code and demostration is present [here]().
+project code and demostration is present [here](https://github.com/kumar-mahendra/66DaysOfData/blob/main/EDA_Blood_Pressure.ipynb).
 
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
 
+
+### Day 13 
+
+Today I learned some new things. Continued reading the book `AI and ML for Coders` by laurance moroney. Here I finished chapter 4 and 5. 
+In chapter 4 , he mostly talked about tensorflow_datasets and how to use them effectively (Confession- I don't enjoy that much but just have a look ) at the end of chapter there some interesting stuff came up. Explored ETL process i.e. *Extract , Transform and Load* and here he talked about how optimization of CPU and GPU happen.
+
+Then I started my next chapter i.e. `Introduction to Natural language processing`. It is much more interesting. In this chapter I learned following concepts : `tokenization`, `cleaning_text` using various technique like stopword removal etc. and also used  BeautifulSoap , a tool to clean HTML files and extract important info from that ignoring syntaxes!! Cool....😎😎
+
+At the end , I did applied the skills gained to clean  `IMDb dataset` of movie_reviews([link](https://colab.research.google.com/drive/1Q-EeoMKf4CYQD6m1FJv6ZGz0uMthBNG8#scrollTo=4jO0ExFcRNTL)). That's all for today . Overall I did much more than by previous days.
+
+Tomorrow will dive a little more deeper into `NLP` in next chapter. 
+<br/>-----------------------------------------------------------------------------------------------------------------<br/>
 
 
 
