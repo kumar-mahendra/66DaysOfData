@@ -152,8 +152,16 @@ Then I started my next chapter i.e. `Introduction to Natural language processing
 At the end , I did applied the skills gained to clean  `IMDb dataset` of movie_reviews([link](https://colab.research.google.com/drive/1Q-EeoMKf4CYQD6m1FJv6ZGz0uMthBNG8#scrollTo=4jO0ExFcRNTL)). That's all for today . Overall I did much more than by previous days.
 
 Tomorrow will dive a little more deeper into `NLP` in next chapter. 
+
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
 
+
+### Day 14 
+Today I finished next chapter "Making sentiment programmable using embeddings". It is quite a confusing topic but exciting ! Till now We have not design any method to give meaning to words , Embedding is one such way which help us to set up a relative meaning to various words . Two words are similar if vectors associated with them are nearly pointing in same direction. But this vectors formation requires some work . I read theory but I think It require some more time to understand it completely. For now I have learnt how to use embedding in tensorflow and also  `make a model` that could predict whether a news headline is *sarcastic* or *non-sarcastic* . It is not that perfect but not overfitting thats something I liked !! . Will work on this model more to increase validation accuracy. 
+
+<br/>-----------------------------------------------------------------------------------------------------------------<br/>
+
+### Day 15 
 
 
 
