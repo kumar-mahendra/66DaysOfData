@@ -157,7 +157,9 @@ Tomorrow will dive a little more deeper into `NLP` in next chapter.
 
 
 ### Day 14 
-Today I finished next chapter "Making sentiment programmable using embeddings". It is quite a confusing topic but exciting ! Till now We have not design any method to give meaning to words , Embedding is one such way which help us to set up a relative meaning to various words . Two words are similar if vectors associated with them are nearly pointing in same direction. But this vectors formation requires some work . I read theory but I think It require some more time to understand it completely. For now I have learnt how to use embedding in tensorflow and also  `make a model` that could predict whether a news headline is *sarcastic* or *non-sarcastic* . It is not that perfect but not overfitting thats something I liked !! . Will work on this model more to increase validation accuracy. 
+Today I finished next chapter "Making sentiment programmable using embeddings". It is quite a confusing topic but exciting ! Till now We have not design any method to give meaning to words , Embedding is one such way which help us to set up a relative meaning to various words . Two words are similar if vectors associated with them are nearly pointing in same direction. But this vectors formation requires some work . I read theory but I think It require some more time to understand it completely. For now I have learnt how to use embedding in tensorflow and also  `make a model` that could predict whether a news headline is *sarcastic* or *non-sarcastic* . It is not that perfect but not overfitting thats something I liked !! . Will work on this model more to increase validation accuracy. You can find the model [here](https://github.com/kumar-mahendra/66DaysOfData/blob/main/Natural_Language_Processing.ipynb) . 
+
+`Info` : If you want to tweak hyper-parameters , you can do that by simply passing hyperparameters in a function , I have kept model flexible so everyone can use it even without understanding whole process. 
 
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
 
