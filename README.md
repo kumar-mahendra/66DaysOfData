@@ -165,7 +165,19 @@ Today I finished next chapter "Making sentiment programmable using embeddings". 
 
 ### Day 15 
 
+From today our next semester(Sem-IV) of college has started . very first day we had 5 classes so didn't get much time to practice. learnt an algorithm  "Naive Gaussian Elimination" method to solve linear system of equations . Wrote down a python code to automate the same. you can find code [here](https://github.com/kumar-mahendra/Mathematics_of_Scientific_Computing/blob/main/Linear_systems/Naive_Gauss_method.ipynb)
 
+<br/>-----------------------------------------------------------------------------------------------------------------<br/>
+
+### Day 16
+
+Today I continued learning a little more about NLP . learnt a few things like
+- Using regularization techniques i.e. lasso and ridge regularization in model which may increase accracy of model
+- Using pretrained models of text embeddings available on tensorflow-hub
+
+**Tech-Info** : `Embedding projector` is an online tool by tensorflow which you can use to vizualize embeddings
+
+<br/>-----------------------------------------------------------------------------------------------------------------<br/>
 
 
 
