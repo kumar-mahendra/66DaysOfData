@@ -179,6 +179,25 @@ Today I continued learning a little more about NLP . learnt a few things like
 
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
 
+### Day 17 
+
+Today I started next chapter "Recurrent neural networks". Till now in NLP, I was just using count and relative meaning of words as parameter to train my model. But there is something that we ignored .... order in which words appears and in what context they are being used. This problem can be solved using RNNs. In particular book is using a bidirectional recurrent neural network called LSTM - long short-term memory. It has variety of applications like speech recognition, image captioning and so on.<br/>
+
+Speciality of this architecture is that it can be used even if inputs are not of same shape.<br/>
+
+Read a Cristopher Olah's [blog post on Understanding LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/).<br/>
+
+Also attended a talk [Jack Raifer Barukh](https://www.linkedin.com/in/jackraifer/) . Quite a insightful talk. <br/>
+`Key Takeaway` <br/> 
+- Data scientist role is yet not clear to companies as they even don't know what they looking for in data scientist. So try out every single interview you can and get experience as much as you can.
+- Keep models simple and once you start something first finish it then experiment with it ...else you will never complete the project.
+- Do projects that ultimately are helpful and will be used.
+
+<br/>-----------------------------------------------------------------------------------------------------------------<br/>
+
+
+
+
 
 
 
