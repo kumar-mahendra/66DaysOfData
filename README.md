@@ -196,6 +196,16 @@ Also attended a talk [Jack Raifer Barukh](https://www.linkedin.com/in/jackraifer
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
 
 
+### Day 18 
+
+Today I just explored a little bit dart language as today from next day I am also participating in `#30dayOfFlutter` to get insights into app development. It is known to be a good closs-platform to build help. I want to deploy my project(which I will start soon) using an app . Lets see how things go. 
+
+Now in NLP , I learned about how to use pre-trained RNNs ,particularly GloVe(global vectors for word representation) to train the model. 
+
+
+<br/>-----------------------------------------------------------------------------------------------------------------<br/>
+
+
 
 
 
