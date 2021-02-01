@@ -206,6 +206,11 @@ Now in NLP , I learned about how to use pre-trained RNNs ,particularly GloVe(glo
 <br/>----------------------------------------------------------------------------------------------------------------<br/>
 
 
+### Day 19 
+
+Today I just did some revision !! Mostly did academic related work. 
+
+<br/>----------------------------------------------------------------------------------------------------------------<br/>
 
 
 
