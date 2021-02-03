@@ -212,6 +212,11 @@ Today I just did some revision !! Mostly did academic related work.
 
 <br/>----------------------------------------------------------------------------------------------------------------<br/>
 
+### Day 20 
+
+Analysed and wrote algorithms for sorting - mergesort (more effiecient than usual) and quicksort(using random pivot).
+
+<br/>----------------------------------------------------------------------------------------------------------------<br/>
 
 
 
