@@ -221,5 +221,10 @@ Analysed and wrote algorithms for sorting - mergesort (more effiecient than usua
 
 
 
+### Day 21
 
+Last two days were disaaster to me . was super busy so didn't do anything. Today I learnt a new concepts "z-statistics,F-statistics" etc.
+Will continue tomorrow.
+
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
 
