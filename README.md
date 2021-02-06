@@ -228,3 +228,8 @@ Will continue tomorrow.
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
 
+### Day 22 
+
+Today and for next day I am doing a digital marketing  internship project that I have started before starting these #66daysofdata. Will continue this challenge after I am done with this project!!:smile:
+
+
