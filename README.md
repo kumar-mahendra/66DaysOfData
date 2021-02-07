@@ -232,4 +232,14 @@ Will continue tomorrow.
 
 Today and for next day I am doing a digital marketing  internship project that I have started before starting these #66daysofdata. Will continue this challenge after I am done with this project!!:smile:
 
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
+
+### Day 23
+
+Today I finished all the recorded sessions of digital marketing intership and started the major project . lets see how long it will take. will do that in small steps . along with that from tomorrow onwards will continue learning **NLP**. :smile:
+
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
+
+
+
 
