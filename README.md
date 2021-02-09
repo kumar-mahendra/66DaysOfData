@@ -240,6 +240,11 @@ Today I finished all the recorded sessions of digital marketing intership and st
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
 
+### Day 24
+
+Today I registered for a a hackathon and prepared my resume.
+
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
 
 
 
