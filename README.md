@@ -20,7 +20,7 @@ This has 3 benefits :
 
 I will record the daily progress here for upcoming 66 days including today ! . Also I will share progress on my [Linkedin](https://www.linkedin.com/in/kumar-mahendra/) . I am very Excited for the Journey :wink: 
 
-#### `Day 1` 
+#### `Day 01` 
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
 
  I started by brushing up basic python programming skills and start learning these libraries in python,
@@ -34,7 +34,7 @@ I will record the daily progress here for upcoming 66 days including today ! . A
 
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
 
-#### `Day 2` 
+#### `Day 02` 
  
 - Attended the discussion session-1 on the topic "Probability theory and probabilistic Models" which was conducted by one of our senior Abhishek Varghese, where I learned a new concept, `the Sigma field`, and also learned about probabilistic models.
 
@@ -43,14 +43,14 @@ I will record the daily progress here for upcoming 66 days including today ! . A
 
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
 
-#### `Day 3`
+#### `Day 03`
 
 - Read 2nd chapter  "Introduction to Computer Vision". Made basic [CV neural network](https://github.com/kumar-mahendra/66DaysOfData/blob/main/simple_multi_neuron.ipynb) 
 - Dataset Used - `Fashion MNIST` 
 
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
 
-#### `Day 4` 
+#### `Day 04` 
 
 - Started 3rd chapter . learned about filtering technique `convolution` and dimension reduction technique `pooling`.
 - get to know about `Dropout regularization`, an attempt to avoid overfitting of CNN (sometimes :confuse:).
@@ -59,20 +59,20 @@ I will record the daily progress here for upcoming 66 days including today ! . A
 
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
 
-#### `Day 5`
+#### `Day 05`
 
 - Gave book some rest. Revised [`probability and statistics`](https://github.com/kumar-mahendra/66DaysOfData/blob/main/4_Probability%20%20and_Statistics%20.ipynb) conepts.
 
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
 
-#### `Day 6` 
+#### `Day 06` 
 
 - participated in `CTF` contest conducted during Tech-Fest `Cepheus` of our college. 
 - Watched [TED talk](https://www.youtube.com/watch?v=40riCqvRoMs) by Ms. `Fei Fei li`, A computer vision expert.
 
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
 
-#### `Day 7` 
+#### `Day 07` 
 
 - Started 4th chapter `Tensorflow-Datasets`. Just read introdiuction part.
 - Get to know about a  data vizualization library, `bokeh` . Solved Tutorial 1 & 2 from their git-hub [repository](https://github.com/bokeh/bokeh-notebooks/tree/main/tutorial).
@@ -80,7 +80,7 @@ I will record the daily progress here for upcoming 66 days including today ! . A
 
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
 
-#### `Day 8` 
+#### `Day 08` 
 
 `Good news` : My application on Coursera for Financial Aid for [`Data Scientists Toolbox`](https://www.coursera.org/learn/data-scientists-tools) gets approved.:fire::fire:
 
@@ -98,7 +98,7 @@ _Summary of Week 1_:
 
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
 
-#### `Day 9` 
+#### `Day 09` 
 
 - Completed Week 2 & started Week 3 in "Data Scientists Toolbox" .
 
