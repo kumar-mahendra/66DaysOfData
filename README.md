@@ -2,7 +2,7 @@
 [`day 01`](#day-01)  [`day 02`](#day-02)  [`day 03`](#day-03)  [`day 04`](#day-04)  [`day 05`](#day-05)  [`day 06`](#day-06) 
 [`day 07`](#day-07)  [`day 08`](#day-08)  [`day 09`](#day-09)  [`day 10`](#day-10)  [`day 11`](#day-11)  [`day 12`](#day-12) 
 [`day 13`](#day-13)  [`day 14`](#day-14)  [`day 15`](#day-15)  [`day 16`](#day-16)  [`day 17`](#day-17)  [`day 18`](#day-18) 
-[`day 19`](#day-19)  [`day 20`](#day-20)   [`day 21`](#day-21) [`day 22`](#day-22)
+[`day 19`](#day-19)  [`day 20`](#day-20)   [`day 21`](#day-21) [`day 22`](#day-22)  [`day 23`](#day-23)
 
 ## Introduction
 
@@ -214,6 +214,12 @@ Today I have practice all remaining  `bokeh` Tutorials( at least tried) [here](h
 
 - Started working on News Headline Tag Prediction model. Currently it is overfitting ! Improvement needed.
 - 
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
+
+#### `Day 23`
+
+- Completed News Headline Tag Prediction modelling. Got accuracy of `94%` with loss in range `0.3-0.5`. I stopped training now. Start writing blog-post for this model.
+ 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
 
 
