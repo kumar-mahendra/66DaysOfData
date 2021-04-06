@@ -234,3 +234,11 @@ Today I have practice all remaining  `bokeh` Tutorials( at least tried) [here](h
 - Finished Tutorial I started yesterday and created a simple web app that store information of user and save it to database
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
+
+#### `Day 26` 
+
+- Solved problem 5&6 of  [`Project Euler+`](https://www.hackerrank.com/contests/projecteuler/challenges) on `Hackerrank`.
+
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
+
+
