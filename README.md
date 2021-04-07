@@ -241,4 +241,11 @@ Today I have practice all remaining  `bokeh` Tutorials( at least tried) [here](h
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
 
+#### `Day 27`
+
+- Solved some more problems in [`Project Euler+`](https://www.hackerrank.com/contests/projecteuler/challenges).
+- web-scrapping : 1) Used Requests & BeautifulSoup libraries to extract covid_19 data(by countries) from wikipedia where it was stored in table. 
+ 
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
+
 
