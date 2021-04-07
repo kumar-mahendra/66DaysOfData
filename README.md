@@ -29,9 +29,15 @@ I will record the daily progress here for upcoming 66 days including today ! . A
 - **Pandas**: A library used for data manipulation and analysis 
 
   **REFERENCES**
-- [python introduction](https://github.com/kumar-mahendra/66DaysOfData/blob/main/1_Introduction_to_python.ipynb)
-- [pandas library](https://github.com/kumar-mahendra/66DaysOfData/blob/main/2_Pandas_Library.ipynb)
-- [numpy library](https://github.com/kumar-mahendra/66DaysOfData/blob/main/3_Intro_to_Numpy.ipynb)
+- [python 
+
+
+
+
+
+duction](https://github.com/kumar-mahendra/66DaysOfData/blob/main/Jupyter-notebooks/1_Introduction_to_python.ipynb)
+- [pandas library](https://github.com/kumar-mahendra/66DaysOfData/blob/main/Jupyter-notebooks/2_Pandas_Library.ipynb)
+- [numpy library](https://github.com/kumar-mahendra/66DaysOfData/blob/main/Jupyter-notebooks/3_Intro_to_Numpy.ipynb)
 
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
 
@@ -40,13 +46,13 @@ I will record the daily progress here for upcoming 66 days including today ! . A
 - Attended the discussion session-1 on the topic "Probability theory and probabilistic Models" which was conducted by one of our senior Abhishek Varghese, where I learned a new concept, `the Sigma field`, and also learned about probabilistic models.
 
 - Also, started reading the book `AI and Machine Learning for Coders` by `Laurence Moroney`. I read the 1st chapter which was about an `introduction to TensorFlow`.
-- Written code for  a simple ['one neuron model'](https://github.com/kumar-mahendra/66DaysOfData/blob/main/single_neuron.ipynb)
+- Written code for  a simple ['one neuron model'](https://github.com/kumar-mahendra/66DaysOfData/blob/main/Jupyter-notebooks/single_neuron.ipynb)
 
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
 
 #### `Day 03`
 
-- Read 2nd chapter  "Introduction to Computer Vision". Made basic [CV neural network](https://github.com/kumar-mahendra/66DaysOfData/blob/main/simple_multi_neuron.ipynb) 
+- Read 2nd chapter  "Introduction to Computer Vision". Made basic [CV neural network](https://github.com/kumar-mahendra/66DaysOfData/blob/main/Jupyter-notebooks/simple_multi_neuron.ipynb) 
 - Dataset Used - `Fashion MNIST` 
 
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
@@ -56,13 +62,13 @@ I will record the daily progress here for upcoming 66 days including today ! . A
 - Started 3rd chapter . learned about filtering technique `convolution` and dimension reduction technique `pooling`.
 - get to know about `Dropout regularization`, an attempt to avoid overfitting of CNN (sometimes :confuse:).
 
- finally applied these techniques to classify `dogs vs cats` images [NLP](https://github.com/kumar-mahendra/66DaysOfData/blob/main/Natural_Language_Processing.ipynb)
+ finally applied these techniques to classify `dogs vs cats` images [NLP](https://github.com/kumar-mahendra/66DaysOfData/blob/main/Jupyter-notebooks/Natural_Language_Processing.ipynb)
 
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
 
 #### `Day 05`
 
-- Gave book some rest. Revised [`probability and statistics`](https://github.com/kumar-mahendra/66DaysOfData/blob/main/4_Probability%20%20and_Statistics%20.ipynb) conepts.
+- Gave book some rest. Revised [`probability and statistics`](https://github.com/kumar-mahendra/66DaysOfData/blob/main/Jupyter-notebooks/4_Probability%20%20and_Statistics%20.ipynb) conepts.
 
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
 
@@ -130,7 +136,7 @@ Today I have practice all remaining  `bokeh` Tutorials( at least tried) [here](h
 #### `Day 12` 
 
 - Today I did a small EDA practice on `blood-pressure` dataset just for fun . Here I made a interactive plot using bokeh-library I learned . 
-- code for the same is [here](https://github.com/kumar-mahendra/66DaysOfData/blob/main/EDA_Blood_Pressure.ipynb).
+- code for the same is [here](https://github.com/kumar-mahendra/66DaysOfData/blob/main/Jupyter-notebooks/EDA_Blood_Pressure.ipynb).
 
 <br/>-----------------------------------------------------------------------------------------------------------------<br/>
 
