@@ -2,8 +2,8 @@
 [`day 01`](#day-01)  [`day 02`](#day-02)  [`day 03`](#day-03)  [`day 04`](#day-04)  [`day 05`](#day-05)  [`day 06`](#day-06) 
 [`day 07`](#day-07)  [`day 08`](#day-08)  [`day 09`](#day-09)  [`day 10`](#day-10)  [`day 11`](#day-11)  [`day 12`](#day-12) <br>
 [`day 13`](#day-13)  [`day 14`](#day-14)  [`day 15`](#day-15)  [`day 16`](#day-16)  [`day 17`](#day-17)  [`day 18`](#day-18) 
-[`day 19`](#day-19)  [`day 20`](#day-20)   [`day 21`](#day-21) [`day 22`](#day-22)  [`day 23`](#day-23)  [`day 24`](#day-24)<br>
-[`day 25`](#day-25)  [`day 26`](#day-26)
+[`day 19`](#day-19)  [`day 20`](#day-20)  [`day 21`](#day-21)  [`day 22`](#day-22)  [`day 23`](#day-23)  [`day 24`](#day-24)<br>
+[`day 25`](#day-25)  [`day 26`](#day-26)  [`day 27`](#day-27)
 
 ## Introduction
 
@@ -247,5 +247,6 @@ Today I have practice all remaining  `bokeh` Tutorials( at least tried) [here](h
 - web-scrapping : 1) Used Requests & BeautifulSoup libraries to extract covid_19 data(by countries) from wikipedia where it was stored in table. 
  
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
+
 
 
