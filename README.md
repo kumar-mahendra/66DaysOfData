@@ -29,13 +29,7 @@ I will record the daily progress here for upcoming 66 days including today ! . A
 - **Pandas**: A library used for data manipulation and analysis 
 
   **REFERENCES**
-- [python 
-
-
-
-
-
-duction](https://github.com/kumar-mahendra/66DaysOfData/blob/main/Jupyter-notebooks/1_Introduction_to_python.ipynb)
+- [python Introduction](https://github.com/kumar-mahendra/66DaysOfData/blob/main/Jupyter-notebooks/1_Introduction_to_python.ipynb)
 - [pandas library](https://github.com/kumar-mahendra/66DaysOfData/blob/main/Jupyter-notebooks/2_Pandas_Library.ipynb)
 - [numpy library](https://github.com/kumar-mahendra/66DaysOfData/blob/main/Jupyter-notebooks/3_Intro_to_Numpy.ipynb)
 
