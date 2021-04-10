@@ -3,9 +3,10 @@
 [`day 07`](#day-07)  [`day 08`](#day-08)  [`day 09`](#day-09)  [`day 10`](#day-10)  [`day 11`](#day-11)  [`day 12`](#day-12) <br>
 [`day 13`](#day-13)  [`day 14`](#day-14)  [`day 15`](#day-15)  [`day 16`](#day-16)  [`day 17`](#day-17)  [`day 18`](#day-18) 
 [`day 19`](#day-19)  [`day 20`](#day-20)  [`day 21`](#day-21)  [`day 22`](#day-22)  [`day 23`](#day-23)  [`day 24`](#day-24)<br>
-[`day 25`](#day-25)  [`day 26`](#day-26)  [`day 27`](#day-27)  [`day 28`](#day-28)
+[`day 25`](#day-25)  [`day 26`](#day-26)  [`day 27`](#day-27)  [`day 28`](#day-28)  [`day 29`](#day-29)
 
 ## Introduction
+[`back to top`](#66DaysOfData)
 
 The #66DaysOfDataScience is a  challenge/Initiative by  Mr. Ken_Jee, A data scientist,  started to help you create great data science learning habits. Along with the habits, you will be joining an incredible community where you can learn alongside and work with other like-minded people!
 
@@ -253,5 +254,11 @@ Today I have practice all remaining  `bokeh` Tutorials( at least tried) [here](h
 - Solved 2 more problems in [`Project Euler+`](https://www.hackerrank.com/contests/projecteuler/challenges).
 - Wrote blogpost on "News headline category predictor" , a multiclass classification project I did . all steps from data collection to its successful impolementation is now finished.
 - You may find this [here](https://valueml.com/) after it get approved. 
+
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
+
+#### `Day 29`
+
+- Extended 'News headline category/tag predictor' to 6 different tags. Now it is on github[here](https://github.com/kumar-mahendra/Beginners-Project/tree/main/NLP_Project).  🥳 . Now no more modification ! 😅
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
