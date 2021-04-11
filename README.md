@@ -263,7 +263,7 @@ Today I have practice all remaining  `bokeh` Tutorials( at least tried) [here](h
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
 
-#### `Day30` 
+#### `Day 30` 
 [`back to top`](#66DaysOfData)
 - Learned Extended Euclid's algorithm and implemented it.
 
