@@ -266,5 +266,9 @@ Today I have practice all remaining  `bokeh` Tutorials( at least tried) [here](h
 #### `Day 30` 
 [`back to top`](#66DaysOfData)
 - Learned Extended Euclid's algorithm and implemented it.
+- Solved 2 more problems in  [`Project Euler+`](https://www.hackerrank.com/contests/projecteuler/challenges)
+
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
+
 
 
