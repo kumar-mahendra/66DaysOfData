@@ -280,6 +280,6 @@ Today I have practice all remaining  `bokeh` Tutorials( at least tried) [here](h
 
 #### `Day 32`
 [`back to top`](#66DaysOfData)
-- solved one more interesting problem in  [`Project Euler+`](https://www.hackerrank.com/contests/projecteuler/challenges) . Calculate product of very big numbers. code [here]()
+- solved one more interesting problem in  [`Project Euler+`](https://www.hackerrank.com/contests/projecteuler/challenges) . Calculate product of very big numbers. code [here](https://github.com/kumar-mahendra/Scratch-It/tree/main/BigIntegerMultiplication)
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
