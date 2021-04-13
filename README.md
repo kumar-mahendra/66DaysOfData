@@ -4,6 +4,7 @@
 [`day 13`](#day-13)  [`day 14`](#day-14)  [`day 15`](#day-15)  [`day 16`](#day-16)  [`day 17`](#day-17)  [`day 18`](#day-18) 
 [`day 19`](#day-19)  [`day 20`](#day-20)  [`day 21`](#day-21)  [`day 22`](#day-22)  [`day 23`](#day-23)  [`day 24`](#day-24)<br>
 [`day 25`](#day-25)  [`day 26`](#day-26)  [`day 27`](#day-27)  [`day 28`](#day-28)  [`day 29`](#day-29)  [`day 30`](#day-30)
+[`day 31`](#day-31)
 
 ## Introduction
 [`back to top`](#66DaysOfData)
@@ -270,5 +271,11 @@ Today I have practice all remaining  `bokeh` Tutorials( at least tried) [here](h
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
 
+#### `Day 31`
+[`back to top`](#66DaysOfData)
+- solved Knapsack DP Problem 
+- solved 2 more problems in [`Project Euler+`](https://www.hackerrank.com/contests/projecteuler/challenges)
+
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
 
 
