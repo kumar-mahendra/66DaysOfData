@@ -281,5 +281,6 @@ Today I have practice all remaining  `bokeh` Tutorials( at least tried) [here](h
 #### `Day 32`
 [`back to top`](#66DaysOfData)
 - solved one more interesting problem in  [`Project Euler+`](https://www.hackerrank.com/contests/projecteuler/challenges) . Calculate product of very big numbers. code [here](https://github.com/kumar-mahendra/Scratch-It/tree/main/BigIntegerMultiplication)
+- Started learning Time Series Modelling . Source of learning - [AI Engineering](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK). `2/32` videos watched.
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
