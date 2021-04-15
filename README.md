@@ -281,6 +281,13 @@ Today I have practice all remaining  `bokeh` Tutorials( at least tried) [here](h
 #### `Day 32`
 [`back to top`](#66DaysOfData)
 - solved one more interesting problem in  [`Project Euler+`](https://www.hackerrank.com/contests/projecteuler/challenges) . Calculate product of very big numbers. code [here](https://github.com/kumar-mahendra/Scratch-It/tree/main/BigIntegerMultiplication)
-- Started learning Time Series Modelling . Source of learning - [AI Engineering](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK). `2/32` videos watched.
+- Started learning Time Series Modelling . Source of learning - [AI Engineering](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK). concepts covered includes EDA on time series data . autocorrelation_plot, lag_plot are something I learned new here. `2/32` videos watched.
+
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
+
+#### `Day 33`
+[`back to top`](#66DaysOfData)
+
+- continue Time Series Modeling playlist from [AI Engineering](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK) . Concepts covered includes moving averages techniques(sma, wma ema, ema ) , time series decomosition , kpps_test and kdfuller(or kdf ) test for checking stationarity. `5/32` videos completed.
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
