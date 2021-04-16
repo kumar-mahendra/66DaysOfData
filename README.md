@@ -297,8 +297,10 @@ Today I have practice all remaining  `bokeh` Tutorials( at least tried) [here](h
 [`back to top`](#66DaysOfData)
 
 - solved 2 more `Project Euler+` problems. 
+- learned foundatations of google's pagerank algorithm.(Thery + Mathematics Involved). Actual algorithm is far more complex and will do that also.  
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
+
 
 
 
