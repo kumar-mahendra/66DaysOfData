@@ -307,4 +307,13 @@ Today I have practice all remaining  `bokeh` Tutorials( at least tried) [here](h
 - solved 1 problem in `Project Euler+` 
 - implemented Pagerank Algorithm in python. code [here](https://github.com/kumar-mahendra/Mathematics-and-Algorithms/blob/main/PageRank_Algorithm.py)
 
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
+
+#### `Day 36` 
+[`back to top`](#66DaysOfData)
+
+- tried 2 `Project Euler+` problems but was unable to solve. will try them again 
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
+
+
 
