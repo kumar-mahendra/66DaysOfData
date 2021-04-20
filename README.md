@@ -318,9 +318,15 @@ Today I have practice all remaining  `bokeh` Tutorials( at least tried) [here](h
 
 #### `Day 37` 
 [`back to top`](#66DaysOfData)
-- On the way to solve 1 more problem in `Project Euler+`.
-- 
+- On the way to solve 1 more problem in `Project Euler+`.[Edit- Solved]
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
+
+#### `Day 38`
+[`back to top`](#66DaysOfData)
+- Solved one more problem . Now problems solved count is 24/254 ... long way to go!  
+
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
+
 
 
 
