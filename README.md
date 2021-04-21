@@ -5,7 +5,7 @@
 [`day 19`](#day-19)  [`day 20`](#day-20)  [`day 21`](#day-21)  [`day 22`](#day-22)  [`day 23`](#day-23)  [`day 24`](#day-24)<br>
 [`day 25`](#day-25)  [`day 26`](#day-26)  [`day 27`](#day-27)  [`day 28`](#day-28)  [`day 29`](#day-29)  [`day 30`](#day-30)
 [`day 31`](#day-31)  [`day-32`](#day-32)  [`day 33`](#day-33)  [`day 34`](#day-34)  [`day 35`](#day-35)  [`day 36`](#day-36)<br>
-[`day 37`](#day-37)
+[`day 37`](#day-37)  [`day 38`](#day-38)  [`day 39`](#day-39)
 
 ## Introduction
 [`back to top`](#66DaysOfData)
@@ -326,6 +326,15 @@ Today I have practice all remaining  `bokeh` Tutorials( at least tried) [here](h
 - Solved one more problem . Now problems solved count is 24/254 ... long way to go!  
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
+
+#### `Day 39` 
+[`back to top`](#66DaysOfData)
+- while solving next question , I am facing some difficulties as problem is more involved than i thought. Processing...
+
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
+
+
+
 
 
 
