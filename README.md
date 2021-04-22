@@ -5,7 +5,7 @@
 [`day 19`](#day-19)  [`day 20`](#day-20)  [`day 21`](#day-21)  [`day 22`](#day-22)  [`day 23`](#day-23)  [`day 24`](#day-24)<br>
 [`day 25`](#day-25)  [`day 26`](#day-26)  [`day 27`](#day-27)  [`day 28`](#day-28)  [`day 29`](#day-29)  [`day 30`](#day-30)
 [`day 31`](#day-31)  [`day-32`](#day-32)  [`day 33`](#day-33)  [`day 34`](#day-34)  [`day 35`](#day-35)  [`day 36`](#day-36)<br>
-[`day 37`](#day-37)  [`day 38`](#day-38)  [`day 39`](#day-39)
+[`day 37`](#day-37)  [`day 38`](#day-38)  [`day 39`](#day-39)  [`day 40`](#day-40)
 
 ## Introduction
 [`back to top`](#66DaysOfData)
@@ -289,7 +289,7 @@ Today I have practice all remaining  `bokeh` Tutorials( at least tried) [here](h
 #### `Day 33`
 [`back to top`](#66DaysOfData)
 
-- continue Time Series Modeling playlist from [AI Engineering](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK) . Concepts covered includes moving averages techniques(sma, wma ema, ema ) , time series decomosition , kpps_test and kdfuller(or kdf ) test for checking stationarity. `5/32` videos completed.
+- continue Time Series Modeling playlist from [AI Engineering](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK) . Concepts covered includes moving averages techniques(sma, wma ema, ema) , time series decomosition , kpps_test and kdfuller(or kdf ) test for checking stationarity. `5/32` videos completed.
 - solved 2 more `Project Euler+` problems. 🤟
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
@@ -333,6 +333,11 @@ Today I have practice all remaining  `bokeh` Tutorials( at least tried) [here](h
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
 
+#### `Day 40` 
+[`back to top`](#66DaysOfData)
+- solved one more problem . (previous one is on hold) 😅  I actually want to stay consistent so let me remain like this. during exam preparation I am doing this so i think it is find to do just one problem a day. 
+
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
 
 
 
