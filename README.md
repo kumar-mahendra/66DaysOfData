@@ -255,7 +255,7 @@ Today I have practice all remaining  `bokeh` Tutorials( at least tried) [here](h
 [`back to top`](#66DaysOfData)
 - Solved 2 more problems in [`Project Euler+`](https://www.hackerrank.com/contests/projecteuler/challenges).
 - Wrote blogpost on "News headline category predictor" , a multiclass classification project I did . all steps from data collection to its successful impolementation is now finished.
-- You may find this [here](https://valueml.com/) after it get approved. 
+- You can find full article [here](https://valueml.com/news-headline-category-prediction/)
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
 
