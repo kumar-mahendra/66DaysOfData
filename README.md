@@ -5,7 +5,7 @@
 [`day 19`](#day-19)  [`day 20`](#day-20)  [`day 21`](#day-21)  [`day 22`](#day-22)  [`day 23`](#day-23)  [`day 24`](#day-24)<br>
 [`day 25`](#day-25)  [`day 26`](#day-26)  [`day 27`](#day-27)  [`day 28`](#day-28)  [`day 29`](#day-29)  [`day 30`](#day-30)
 [`day 31`](#day-31)  [`day-32`](#day-32)  [`day 33`](#day-33)  [`day 34`](#day-34)  [`day 35`](#day-35)  [`day 36`](#day-36)<br>
-[`day 37`](#day-37)  [`day 38`](#day-38)  [`day 39`](#day-39)  [`day 40`](#day-40)  [`day 41`](#day-41)
+[`day 37`](#day-37)  [`day 38`](#day-38)  [`day 39`](#day-39)  [`day 40`](#day-40)  [`day 41`](#day-41)  [`day 42`](#day-42)
 
 ## Introduction
 [`back to top`](#66DaysOfData)
@@ -337,16 +337,20 @@ Today I have practice all remaining  `bokeh` Tutorials( at least tried) [here](h
 [`back to top`](#66DaysOfData)
 - solved one more problem . (previous one is on hold) 😅  I actually want to stay consistent so let me remain like this. during exam preparation I am doing this so i think it is find to do just one problem a day. 
 
-<br/>--------------------------------------------------------------------------------------------------------------<br/>
+<br/>-------------------------------------------------------------------------------------------------------------<br/>
 
 #### `Day 41` 
 [`back to top`](#66DaysOfData)
-- solving one more problem on `Project Euler+`.
+- solving one more problem on `Project Euler+`[Edit-Solved].
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
 
+#### `Day 42` 
+[`back to top`](#66DaysOfData)
+- Took `data structure & algorithm assessment` on ibHubs platform. completed succesfully.
+- Solved one more problem in `Project Euler+`
 
-
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
 
 
 
