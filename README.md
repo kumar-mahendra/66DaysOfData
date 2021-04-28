@@ -352,5 +352,9 @@ Today I have practice all remaining  `bokeh` Tutorials( at least tried) [here](h
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
 
+#### `Day 43` 
+[`back to top`](#66DaysOfData)
+- Started one more problem in `Project euler+` . Feeling Stuck Again!! 😅
 
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
 
