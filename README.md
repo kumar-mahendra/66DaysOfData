@@ -6,7 +6,7 @@
 [`day 25`](#day-25)  [`day 26`](#day-26)  [`day 27`](#day-27)  [`day 28`](#day-28)  [`day 29`](#day-29)  [`day 30`](#day-30)
 [`day 31`](#day-31)  [`day-32`](#day-32)  [`day 33`](#day-33)  [`day 34`](#day-34)  [`day 35`](#day-35)  [`day 36`](#day-36)<br>
 [`day 37`](#day-37)  [`day 38`](#day-38)  [`day 39`](#day-39)  [`day 40`](#day-40)  [`day 41`](#day-41)  [`day 42`](#day-42)
-[`day 43`](#day-43)
+[`day 43`](#day-43)  [`day 44`](#day-44)
 
 ## Introduction
 [`back to top`](#66DaysOfData)
@@ -355,7 +355,13 @@ Today I have practice all remaining  `bokeh` Tutorials( at least tried) [here](h
 
 #### `Day 43` 
 [`back to top`](#66DaysOfData)
-- Started one more problem in `Project euler+` . Feeling Stuck Again!! 😅
+- Started one more problem in `Project euler+` . Feeling Stuck Again!! 😅[Edit-Solved]
+
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
+
+#### `Day 44` 
+[`back to top`](#66DaysOfData)
+- Solved 1 more problem in `Project Euler+`.
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
 
