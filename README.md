@@ -6,7 +6,7 @@
 [`day 25`](#day-25)  [`day 26`](#day-26)  [`day 27`](#day-27)  [`day 28`](#day-28)  [`day 29`](#day-29)  [`day 30`](#day-30)
 [`day 31`](#day-31)  [`day-32`](#day-32)  [`day 33`](#day-33)  [`day 34`](#day-34)  [`day 35`](#day-35)  [`day 36`](#day-36)<br>
 [`day 37`](#day-37)  [`day 38`](#day-38)  [`day 39`](#day-39)  [`day 40`](#day-40)  [`day 41`](#day-41)  [`day 42`](#day-42)
-[`day 43`](#day-43)  [`day 44`](#day-44)  [`day 45`](#day-45)  [`day 46`](#day-46)  
+[`day 43`](#day-43)  [`day 44`](#day-44)  [`day 45`](#day-45)  [`day 46`](#day-46)  [`day 47`](#day-47)
 
 ## Introduction
 [`back to top`](#66DaysOfData)
@@ -382,4 +382,10 @@ Lets get back to work.
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
 
+### `Day 47` 
+[`back to top`](#66DaysOfData)
+
+- Doing Andrew Ng's Machine learning course. 
+
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
 
