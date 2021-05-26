@@ -408,6 +408,6 @@ Lets get back to work.
 ### `Day 50` 
 [`back to top`](#66DaysOfData)
 
-- Completed 8 Weeks Of Course of ML by Andrew Sir
+- Completed till Week 8  Of Course of ML by Andrew Sir
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
