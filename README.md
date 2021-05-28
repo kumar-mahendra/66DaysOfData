@@ -422,6 +422,7 @@ Lets get back to work.
 [`back to top`](#66DaysOfData)
 
 - Today I feel really happy . I have succesfully completed Stanford's Machine Learning Course . It remain pending for quite a lot of time . But Now after Endsem I completed this course in just 1 Week !!
+- Next step is very obvious apply what you learn because we don't realise how to use your knowledge until you put that in practice and see things happen . In course , Andrew Ng used very simple data that matches what he was teaching as data was cleaned and organized. But in real projects getting data is going to be tough too. So from tommorrow I will start using my knowledge I gained and improve upon that. 
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
 
