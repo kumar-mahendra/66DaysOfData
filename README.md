@@ -7,7 +7,7 @@
 [`day 31`](#day-31)  [`day-32`](#day-32)  [`day 33`](#day-33)  [`day 34`](#day-34)  [`day 35`](#day-35)  [`day 36`](#day-36)<br>
 [`day 37`](#day-37)  [`day 38`](#day-38)  [`day 39`](#day-39)  [`day 40`](#day-40)  [`day 41`](#day-41)  [`day 42`](#day-42)
 [`day 43`](#day-43)  [`day 44`](#day-44)  [`day 45`](#day-45)  [`day 46`](#day-46)  [`day 47`](#day-47)  [`day 48`](#day-48)<br>
-[`day 49`](#day-49)  [`day 50`](#day-50)  [`day 51`](#day-50)  [`day 52*`](#day-52) 
+[`day 49`](#day-49)  [`day 50`](#day-50)  [`day 51`](#day-50)  [`day 52*`](#day-52) [`day 53`](#day-53)
 
 ## Introduction
 [`back to top`](#66DaysOfData)
@@ -425,6 +425,13 @@ Lets get back to work.
 - Next step is very obvious apply what you learn because we don't realise how to use your knowledge until you put that in practice and see things happen . In course , Andrew Ng used very simple data that matches what he was teaching as data was cleaned and organized. But in real projects getting data is going to be tough too. So from tommorrow I will start using my knowledge I gained and improve upon that. 
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
+
+### `Day 52` 
+[`back to top`](#66DaysOfData)
+- Binging a video explaining machine learning pipeline .
+
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
+
 
 
 
