@@ -426,7 +426,7 @@ Lets get back to work.
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
 
-### `Day 52` 
+### `Day 53` 
 [`back to top`](#66DaysOfData)
 - Binging a video explaining machine learning pipeline .
 
