@@ -8,6 +8,7 @@
 [`day 37`](#day-37)  [`day 38`](#day-38)  [`day 39`](#day-39)  [`day 40`](#day-40)  [`day 41`](#day-41)  [`day 42`](#day-42)
 [`day 43`](#day-43)  [`day 44`](#day-44)  [`day 45`](#day-45)  [`day 46`](#day-46)  [`day 47`](#day-47)  [`day 48`](#day-48)<br>
 [`day 49`](#day-49)  [`day 50`](#day-50)  [`day 51`](#day-50)  [`day 52*`](#day-52) [`day 53`](#day-53)  [`day 54`](#day-54)
+[`day 55`](#day-55)
 
 ## Introduction
 [`back to top`](#66DaysOfData)
@@ -435,5 +436,13 @@ Lets get back to work.
 ### `Day 54` 
 [`back to top`](#66DaysOfData)
 - Gave some Assessment on Workera 
+
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
+
+### `Day 55` 
+[`back to top`](#66DaysOfData)
+- Learned maths involved in linear and logistic regression.
+
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
 
 
