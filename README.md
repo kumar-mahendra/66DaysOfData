@@ -8,7 +8,7 @@
 [`day 37`](#day-37)  [`day 38`](#day-38)  [`day 39`](#day-39)  [`day 40`](#day-40)  [`day 41`](#day-41)  [`day 42`](#day-42)
 [`day 43`](#day-43)  [`day 44`](#day-44)  [`day 45`](#day-45)  [`day 46`](#day-46)  [`day 47`](#day-47)  [`day 48`](#day-48)<br>
 [`day 49`](#day-49)  [`day 50`](#day-50)  [`day 51`](#day-50)  [`day 52`](#day-52)  [`day 53`](#day-53)  [`day 54`](#day-54)
-[`day 55`](#day-55)  [`day 56`](#day-56)  [`day 57`](#day-57)  [`day 58`](#day-58)  [`day 59`](#day-59)
+[`day 55`](#day-55)  [`day 56`](#day-56)  [`day 57`](#day-57)  [`day 58`](#day-58)  [`day 59`](#day-59)  [`day 60`](#day-60)
 
 ## Introduction
 [`back to top`](#66DaysOfData)
@@ -470,5 +470,11 @@ Lets get back to work.
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
 
+### `Day 60` 
+[`back to top`](#66DaysOfData)
+- For such a long time I thought k-nn is very ineficient algorithm but today I learnt about some techniques which can speed up K-NN algorithm for finding k-nearest neightbors.
+- Techniques learnt - K-DTrees , Inverted Lists, Locally Sensitive Hashing(LSH in short)  
+
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
 
 
