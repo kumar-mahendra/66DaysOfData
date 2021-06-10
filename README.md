@@ -9,7 +9,7 @@
 [`day 43`](#day-43)  [`day 44`](#day-44)  [`day 45`](#day-45)  [`day 46`](#day-46)  [`day 47`](#day-47)  [`day 48`](#day-48)<br>
 [`day 49`](#day-49)  [`day 50`](#day-50)  [`day 51`](#day-50)  [`day 52`](#day-52)  [`day 53`](#day-53)  [`day 54`](#day-54)
 [`day 55`](#day-55)  [`day 56`](#day-56)  [`day 57`](#day-57)  [`day 58`](#day-58)  [`day 59`](#day-59)  [`day 60`](#day-60)<br>
-[`day 61`](#day-61)
+[`day 61`](#day-61)  [`day 62`](#day-62)
 
 
 ## Introduction
@@ -481,8 +481,14 @@ Lets get back to work.
 
 ### `Day 61` 
 [`back to top`](#66DaysOfData)
-- Implemented KD Trees algorithm in python.
+- Implemented KNN KD-Trees algorithm in python.
 -
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
+
+### `Day 62` 
+[`back to top`](#66DaysOfData)
+- Today I completed Module 2 of Zerotha Varsity. It covered all topics we should know about technical analysis as beginner in stock market. Used knowledged gained to see some trends in Bitcoin-USD stock prices variation and suprisingly these techniques I learnt seem to work most of time. I will share related observations later on github after project completion.
+
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
 
 
