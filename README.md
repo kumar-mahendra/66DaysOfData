@@ -9,7 +9,7 @@
 [`day 43`](#day-43)  [`day 44`](#day-44)  [`day 45`](#day-45)  [`day 46`](#day-46)  [`day 47`](#day-47)  [`day 48`](#day-48)<br>
 [`day 49`](#day-49)  [`day 50`](#day-50)  [`day 51`](#day-50)  [`day 52`](#day-52)  [`day 53`](#day-53)  [`day 54`](#day-54)
 [`day 55`](#day-55)  [`day 56`](#day-56)  [`day 57`](#day-57)  [`day 58`](#day-58)  [`day 59`](#day-59)  [`day 60`](#day-60)<br>
-[`day 61`](#day-61)  [`day 62`](#day-62)  [`day 63`](#day-63)
+[`day 61`](#day-61)  [`day 62`](#day-62)  [`day 63`](#day-63)  [`day 64`](#day-64)
 
 
 ## Introduction
@@ -497,8 +497,12 @@ Lets get back to work.
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
 
+### `Day 64` 
+[`back to top`](#66DaysOfData)
+- Wrote python implementation of solving `burger's equation` and `poisson_1D` equation using `DeepXDE` library. Still I have to do lot in optimization and covexity. 
+- In optimization setting I learned about conditions of maxima and minima and some basic defintions.  
 
-
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
 
 
 
