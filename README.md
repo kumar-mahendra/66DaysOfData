@@ -9,7 +9,7 @@
 [`day 43`](#day-43)  [`day 44`](#day-44)  [`day 45`](#day-45)  [`day 46`](#day-46)  [`day 47`](#day-47)  [`day 48`](#day-48)<br>
 [`day 49`](#day-49)  [`day 50`](#day-50)  [`day 51`](#day-50)  [`day 52`](#day-52)  [`day 53`](#day-53)  [`day 54`](#day-54)
 [`day 55`](#day-55)  [`day 56`](#day-56)  [`day 57`](#day-57)  [`day 58`](#day-58)  [`day 59`](#day-59)  [`day 60`](#day-60)<br>
-[`day 61`](#day-61)  [`day 62`](#day-62)  [`day 63`](#day-63)  [`day 64`](#day-64)
+[`day 61`](#day-61)  [`day 62`](#day-62)  [`day 63`](#day-63)  [`day 64`](#day-64)  [`day 65`](#day-65)
 
 
 ## Introduction
@@ -504,5 +504,11 @@ Lets get back to work.
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
 
+### `Day 65` 
+[`back to top`](#66DaysOfData)
 
+- participated in a coding competition . was able to solve only 1/4 question. 😞 
+- spent some time in doing case study - a part of Call for Case Study Competition by IIC Cell , IIT Goa.
+
+<br/>--------------------------------------------------------------------------------------------------------------<br/>
 
