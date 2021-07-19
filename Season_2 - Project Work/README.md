@@ -14,6 +14,11 @@ TBH I don't know even we can make this project a success but it is always good t
 [`Home`](#66DaysOfData)
 - Today we compiled some data we had collected and search is still going on. we converted data in a csv file format with appropriate columns names and format. 
 
+### `Day 03`
+[`Home`](#66DaysOfData)
+- Trying out decision tree algorithm for our project . I am still figuring out how to make most out of DT algorithm. 
+
+
 ### References/ Research Paper 
 - [Disease prediction from various sources using ML](#https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3661426)
 - [Disease prediction based on symptoms using classification](#http://www.xajzkjdx.cn/gallery/306-april2020.pdf)
