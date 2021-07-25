@@ -1,7 +1,8 @@
 ## 66DaysOfData 
 
-[`Day 01`](#day-01)  [`Day 02`](#day-02) 
-
+[`Day 01`](#day-01)  [`Day 02`](#day-02)  [`Day 03`](#day-03)   [`Day 04`](#day-04)    [`Day 05`](#day-05)    [`Day 06`](#day-06) 
+ 
+ 
 Now in next 66 days I have some plans related to project I am going to work on along with my friends.
 TBH I don't know even we can make this project a success but it is always good to give it a shot . 
 
@@ -17,6 +18,19 @@ TBH I don't know even we can make this project a success but it is always good t
 ### `Day 03`
 [`Home`](#66DaysOfData)
 - Trying out decision tree algorithm for our project . I am still figuring out how to make most out of DT algorithm. 
+
+### `Day 04`
+[`Home`](#66DaysOfData)
+- Started learning Open-CV which I will use in my project . 
+
+### `Day 05`
+[`Home`](#66DaysOfData)
+- Completed Basic Open-CV concepts using tutorials, and some online courses 
+- Started working on a simple project to put new skills gained in test. The project is a paintingApp 
+
+### `Day 06` 
+[`Home`](#66DaysOfData)
+- Almost completed paintingApp. Just some brushup required then I will upload that on github. 
 
 
 ### References/ Research Paper 
