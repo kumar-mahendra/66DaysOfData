@@ -1,6 +1,6 @@
 ## 66DaysOfData 
 
-[`Day 01`](#day-01)  [`Day 02`](#day-02)  [`Day 03`](#day-03)   [`Day 04`](#day-04)    [`Day 05`](#day-05)    [`Day 06`](#day-06) 
+[`Day 01`](#day-01)  [`Day 02`](#day-02)  [`Day 03`](#day-03)   [`Day 04`](#day-04)    [`Day 05`](#day-05)    [`Day 06`](#day-06)   [`Day 07`](#day-07) 
  
  
 Now in next 66 days I have some plans related to project I am going to work on along with my friends.
@@ -32,6 +32,13 @@ TBH I don't know even we can make this project a success but it is always good t
 [`Home`](#66DaysOfData)
 - Almost completed paintingApp. Just some brushup required then I will upload that on github. 
 
+### `Day 07` 
+[`Home`](#66DaysOfData)
+- learned how to use mediapipe framework provided by Google to perform computer vision tasks and did some projects using that. 
+
+### `Day 08` 
+[`Home`](#66DaysOfData)
+-
 
 ### References/ Research Paper 
 - [Disease prediction from various sources using ML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3661426)
