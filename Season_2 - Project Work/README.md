@@ -38,7 +38,10 @@ TBH I don't know even we can make this project a success but it is always good t
 
 ### `Day 08` 
 [`Home`](#66DaysOfData)
--
+- Today I attended workshop by NVIDIA on Fundamentals of deep learning . I always had problem in writing code for deep neural netowork models . today they made my concepts more clear.worth the time.
+
+
+
 
 ### References/ Research Paper 
 - [Disease prediction from various sources using ML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3661426)
