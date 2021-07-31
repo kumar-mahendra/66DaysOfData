@@ -1,6 +1,6 @@
 ## 66DaysOfData 
 
-[`Day 01`](#day-01)  [`Day 02`](#day-02)  [`Day 03`](#day-03)   [`Day 04`](#day-04)    [`Day 05`](#day-05)    [`Day 06`](#day-06)   [`Day 07`](#day-07) 
+[`Day 01`](#day-01)  [`Day 02`](#day-02)  [`Day 03`](#day-03)   [`Day 04`](#day-04)    [`Day 05`](#day-05)    [`Day 06`](#day-06)   [`Day 07`](#day-07)    [`Day 08`](#day-08)     [`Day 09`](#day-09)
  
  
 Now in next 66 days I have some plans related to project I am going to work on along with my friends.
@@ -40,8 +40,9 @@ TBH I don't know even we can make this project a success but it is always good t
 [`Home`](#66DaysOfData)
 - Today I attended workshop by NVIDIA on Fundamentals of deep learning . I always had problem in writing code for deep neural netowork models . today they made my concepts more clear.worth the time.
 
-
-
+### `Day 09` 
+[`Home`](#66DaysOfData)
+- Today I learned about parsing library 'argparser' in python . this is basically a library to create command line interface in python . [docs](https://docs.python.org/3/library/argparse.html#module-argparse)
 
 ### References/ Research Paper 
 - [Disease prediction from various sources using ML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3661426)
