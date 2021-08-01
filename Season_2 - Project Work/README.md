@@ -44,6 +44,11 @@ TBH I don't know even we can make this project a success but it is always good t
 [`Home`](#66DaysOfData)
 - Today I learned about parsing library 'argparser' in python . this is basically a library to create command line interface in python . [docs](https://docs.python.org/3/library/argparse.html#module-argparse)
 
+### `Day 10` 
+[`Home`](#66DaysOfData)
+- Today I attended 2nd and the last Workshop by NVIDIA on "Building Transformer Based- NLP applications". I always was afraid of words  like BERT, Transformer, etc. but today with help of this workshop i got atleast intuition about what nlp is about and i really find this workshop useful. I am now going to visit all their jupyter notebooks/ppts again as they had lot of things in there and I am sure if I understand each of them then I will become quite good at building and deploying nlp applications.   Surely I am now going to use NVIDIA Triton for deploying project that I and my team is currently working on as I know now how to do that (well , at least i have idea how to do this). 
+
+
 ### References/ Research Paper 
 - [Disease prediction from various sources using ML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3661426)
 - [Disease prediction based on symptoms using classification](http://www.xajzkjdx.cn/gallery/306-april2020.pdf)
