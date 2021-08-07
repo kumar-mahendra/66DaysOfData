@@ -13,18 +13,52 @@ Categorical Naive Bayes
 import pandas as pd 
 from sklearn.model_selection import train_test_split 
 from sklearn.naive_bayes import GaussianNB, MultinomialNB, ComplementNB, BernoulliNB, CategoricalNB 
+from sklearn.preprocessing import LabelEncoder 
+
+le  = LabelEncoder()
 
 train_data = pd.read_csv('train.csv')
-print(train_data.columns)
-y = train_data[['prognosis']]
+train_data.drop_duplicates(inplace=True)
+test_data = pd.read_csv('test.csv')
+train_data.drop('Unnamed: 133',inplace=True,axis=1)
+y_train = train_data.loc[:,['prognosis']]
+y_test = test_data.loc[:,['prognosis']]
+le.fit(y_train)
+
+y_train = le.transform(y_train)
+y_test = le.transform(y_test)
+
 train_data.drop('prognosis',axis=1,inplace=True)
-train_data.drop('Unnamed: 133',axis=1,inplace=True)
-X = train_data 
+test_data.drop('prognosis',axis=1,inplace=True)
+X_train = train_data 
+X_test = test_data
 
-X_train, X_test, y_train, y_test = train_test_split(X,y,test_size = 0.2,shuffle=False)
+cnt_gnb, cnt_mnb , cnt_cnb, cnt_bnb, cnt_cat_nb = 0,0,0,0,0
 
-y_pred = GaussianNB().fit(X_train,y_train).predict(X_test)
-print(y_pred.shape)
-print(y_pred[0:10])
-print(y_test[0:10])
-# print(f"No of labels out of {X_test.shape[0]} incorrectly classified {(y_pred != y_test).sum()}")
+n = 100
+
+for i in range(n) : 
+    print(i+1)
+    y_pred_gnb = GaussianNB().fit(X_train,y_train).predict(X_test)
+    y_pred_mnb = MultinomialNB().fit(X_train,y_train).predict(X_test)
+    y_pred_cnb = ComplementNB().fit(X_train,y_train).predict(X_test)
+    y_pred_bnb = BernoulliNB().fit(X_train,y_train).predict(X_test)
+    y_pred_cat_nb = CategoricalNB().fit(X_train,y_train).predict(X_test)
+
+    cnt_gnb += (y_pred_gnb != y_test).sum() 
+    cnt_mnb += (y_pred_mnb != y_test).sum()
+    cnt_cnb += (y_pred_cnb != y_test).sum()
+    cnt_bnb += (y_pred_bnb != y_test).sum()
+    cnt_cat_nb += (y_pred_cat_nb != y_test).sum() 
+
+
+print(f"No of labels out of {X_test.shape[0]} in 'Gaussian' on average incorrectly classified {cnt_gnb//n}")
+print(f"No of labels out of {X_test.shape[0]} in 'Multinomial' on  average incorrectly classified {cnt_mnb//n}")
+print(f"No of labels out of {X_test.shape[0]} in 'Complement' on average incorrectly classified {cnt_cnb//n}")
+print(f"No of labels out of {X_test.shape[0]} in 'Bernoulli' on average incorrectly classified {cnt_bnb//n}")
+print(f"No of labels out of {X_test.shape[0]} in 'Categorical' on average incorrectly classified {cnt_cat_nb//n}")
+
+
+'''
+Conclusion : For given dataset it seems like gaussian model is giving promising results.
+'''

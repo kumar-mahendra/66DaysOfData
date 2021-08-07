@@ -1,6 +1,6 @@
 ## 66DaysOfData 
 
-[`Day 01`](#day-01)  [`Day 02`](#day-02)  [`Day 03`](#day-03)   [`Day 04`](#day-04)    [`Day 05`](#day-05)    [`Day 06`](#day-06)   [`Day 07`](#day-07)    [`Day 08`](#day-08)     [`Day 09`](#day-09)
+[`Day 01`](#day-01)  [`Day 02`](#day-02)  [`Day 03`](#day-03)   [`Day 04`](#day-04)    [`Day 05`](#day-05)    [`Day 06`](#day-06)   [`Day 07`](#day-07)    [`Day 08`](#day-08)     [`Day 09`](#day-09)       [`Day 10`](#day-10)     [`Day 11`](#day-11)  
  
  
 Now in next 66 days I have some plans related to project I am going to work on along with my friends.
@@ -47,6 +47,11 @@ TBH I don't know even we can make this project a success but it is always good t
 ### `Day 10` 
 [`Home`](#66DaysOfData)
 - Today I attended 2nd and the last Workshop by NVIDIA on "Building Transformer Based- NLP applications". I always was afraid of words  like BERT, Transformer, etc. but today with help of this workshop i got atleast intuition about what nlp is about and i really find this workshop useful. I am now going to visit all their jupyter notebooks/ppts again as they had lot of things in there and I am sure if I understand each of them then I will become quite good at building and deploying nlp applications.   Surely I am now going to use NVIDIA Triton for deploying project that I and my team is currently working on as I know now how to do that (well , at least i have idea how to do this). 
+
+
+### `Day 11` 
+[`Home`](#66DaysOfData)
+- We found a new dataset which contains around 130+ diseases with symptoms . Now we are compiling this dataset and will keep only feature/symptoms which are relevent and also merge similar symptoms so model can give more accurate results. 
 
 
 ### References/ Research Paper 
