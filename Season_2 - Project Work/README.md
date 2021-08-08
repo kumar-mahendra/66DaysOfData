@@ -1,6 +1,6 @@
-## 66DaysOfData 
+##66DaysOfData 
 
-[`Day 01`](#day-01)  [`Day 02`](#day-02)  [`Day 03`](#day-03)   [`Day 04`](#day-04)    [`Day 05`](#day-05)    [`Day 06`](#day-06)   [`Day 07`](#day-07)    [`Day 08`](#day-08)     [`Day 09`](#day-09)       [`Day 10`](#day-10)     [`Day 11`](#day-11)  
+[`Day 01`](#day-01)  [`Day 02`](#day-02)  [`Day 03`](#day-03)   [`Day 04`](#day-04)    [`Day 05`](#day-05)    [`Day 06`](#day-06)   [`Day 07`](#day-07)    [`Day 08`](#day-08)    [`Day 09`](#day-09)    [`Day 10`](#day-10)   [`Day 11`](#day-11)   [`Day 11`](#day-11)
  
  
 Now in next 66 days I have some plans related to project I am going to work on along with my friends.
@@ -52,6 +52,11 @@ TBH I don't know even we can make this project a success but it is always good t
 ### `Day 11` 
 [`Home`](#66DaysOfData)
 - We found a new dataset which contains around 130+ diseases with symptoms . Now we are compiling this dataset and will keep only feature/symptoms which are relevent and also merge similar symptoms so model can give more accurate results. 
+
+### `Day 12` 
+[`Home`](#66DaysOfData)
+- made significant improvment on cleaning dataset. reduced no of symptoms from 400+ --> just 165 by creating whole new list of symptoms which are almost independent hence best suited for ML models. now we are required to map diseases to this new set of symptoms . 
+
 
 
 ### References/ Research Paper 
