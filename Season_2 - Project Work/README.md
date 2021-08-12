@@ -1,48 +1,56 @@
 ## 66DaysOfData 
 
-[`Day 01`](#day-01)  [`Day 02`](#day-02)  [`Day 03`](#day-03)   [`Day 04`](#day-04)    [`Day 05`](#day-05)    [`Day 06`](#day-06)   [`Day 07`](#day-07)    [`Day 08`](#day-08)    [`Day 09`](#day-09)    [`Day 10`](#day-10)   [`Day 11`](#day-11)   [`Day 11`](#day-11)   [`Day 12`](#day-12)   [`Day 13`](#day-13)
+[`Day 01`](#day-01)  [`Day 02`](#day-02)  [`Day 03`](#day-03)   [`Day 04`](#day-04)    [`Day 05`](#day-05)    [`Day 06`](#day-06)   [`Day 07`](#day-07)    [`Day 08`](#day-08)    [`Day 09`](#day-09)    [`Day 10`](#day-10)   [`Day 11`](#day-11)   [`Day 11`](#day-11)   [`Day 12`](#day-12)   [`Day 13`](#day-13)   [`Day 14`](#day-14)
  
  
 Now in next 66 days I have some plans related to project I am going to work on along with my friends.
 TBH I don't know even we can make this project a success but it is always good to give it a shot . 
 
 #### `Day 01` 
-
 [`Home`](#66DaysOfData)
 - Today we discussed how our project will look like what are our objective/expectations from this project and what we might require during this project. we are starting today by collecting some relevant data. 
+
 
 #### `Day 02` 
 [`Home`](#66DaysOfData)
 - Today we compiled some data we had collected and search is still going on. we converted data in a csv file format with appropriate columns names and format. 
 
+
 ### `Day 03`
 [`Home`](#66DaysOfData)
 - Trying out decision tree algorithm for our project . I am still figuring out how to make most out of DT algorithm. 
 
+
 ### `Day 04`
 [`Home`](#66DaysOfData)
 - Started learning Open-CV which I will use in my project . 
+
 
 ### `Day 05`
 [`Home`](#66DaysOfData)
 - Completed Basic Open-CV concepts using tutorials, and some online courses 
 - Started working on a simple project to put new skills gained in test. The project is a paintingApp 
 
+
 ### `Day 06` 
 [`Home`](#66DaysOfData)
 - Almost completed paintingApp. Just some brushup required then I will upload that on github. 
+
 
 ### `Day 07` 
 [`Home`](#66DaysOfData)
 - learned how to use mediapipe framework provided by Google to perform computer vision tasks and did some projects using that. 
 
+
 ### `Day 08` 
 [`Home`](#66DaysOfData)
 - Today I attended workshop by NVIDIA on Fundamentals of deep learning . I always had problem in writing code for deep neural netowork models . today they made my concepts more clear.worth the time.
 
+
 ### `Day 09` 
 [`Home`](#66DaysOfData)
 - Today I learned about parsing library 'argparser' in python . this is basically a library to create command line interface in python . [docs](https://docs.python.org/3/library/argparse.html#module-argparse)
+
 
 ### `Day 10` 
 [`Home`](#66DaysOfData)
@@ -53,14 +61,20 @@ TBH I don't know even we can make this project a success but it is always good t
 [`Home`](#66DaysOfData)
 - We found a new dataset which contains around 130+ diseases with symptoms . Now we are compiling this dataset and will keep only feature/symptoms which are relevent and also merge similar symptoms so model can give more accurate results. 
 
+
 ### `Day 12` 
 [`Home`](#66DaysOfData)
 - made significant improvment on cleaning dataset. reduced no of symptoms from 400+ --> just 165 by creating whole new list of symptoms which are almost independent hence best suited for ML models. now we are required to map diseases to this new set of symptoms . 
+
 
 ### `Day 13` 
 [`Home](#66DaysOfData)
 - continued working on data preparation step .  additionaly for refresher completed `intro of ML` course on kaggle. 
 
+
+### `Day 14` 
+[`Home](#66DaysOfData)
+- Now we are done with collection of data (at least for now) and created a table with around 130+ diseases and around 200 symptoms created by us (as original symptoms name were very complex as not useful as it is). Now we will use this dataset for further use.
 
 
 
