@@ -1,6 +1,6 @@
 ## 66DaysOfData 
 
-[`Day 01`](#day-01)  [`Day 02`](#day-02)  [`Day 03`](#day-03)   [`Day 04`](#day-04)    [`Day 05`](#day-05)    [`Day 06`](#day-06)   [`Day 07`](#day-07)    [`Day 08`](#day-08)    [`Day 09`](#day-09)    [`Day 10`](#day-10)   [`Day 11`](#day-11)   [`Day 11`](#day-11)   [`Day 12`](#day-12)   [`Day 13`](#day-13)   [`Day 14`](#day-14)
+[`Day 01`](#day-01)  [`Day 02`](#day-02)  [`Day 03`](#day-03)   [`Day 04`](#day-04)    [`Day 05`](#day-05)    [`Day 06`](#day-06)   [`Day 07`](#day-07)    [`Day 08`](#day-08)    [`Day 09`](#day-09)    [`Day 10`](#day-10)   [`Day 11`](#day-11)   [`Day 11`](#day-11)   [`Day 12`](#day-12)   [`Day 13`](#day-13)   [`Day 14`](#day-14) [`Day 15`](#day-15)
  
  
 Now in next 66 days I have some plans related to project I am going to work on along with my friends.
@@ -68,13 +68,18 @@ TBH I don't know even we can make this project a success but it is always good t
 
 
 ### `Day 13` 
-[`Home](#66DaysOfData)
+[`Home`](#66DaysOfData)
 - continued working on data preparation step .  additionaly for refresher completed `intro of ML` course on kaggle. 
 
 
 ### `Day 14` 
-[`Home](#66DaysOfData)
+[`Home`](#66DaysOfData)
 - Now we are done with collection of data (at least for now) and created a table with around 130+ diseases and around 200 symptoms created by us (as original symptoms name were very complex as not useful as it is). Now we will use this dataset for further use.
+
+
+### `Day 15` 
+[`Home`](#66DaysOfData)
+- Today we checked `DecisionTreeClassifier` from sklearn to make prediction on our test data and it gives 100% accuracy on training and testing set . Now we will extend our model to consider more scenerios like impurity in data etc..  also will add more diseases to dataset wherever possible. 
 
 
 
