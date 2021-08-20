@@ -2,9 +2,7 @@
 import pandas as pd 
 import numpy as np 
 
-
 dir = 'data/train_data.csv'
-
 
 data = pd.read_csv(dir)
 data.drop('Unnamed: 0', axis=1, inplace=True)
@@ -42,12 +40,6 @@ for disease, symptoms  in disease_symptoms_dict.items() :
 # print(new_data.shape)
 
 # Save new_data to csv file "train2_modified.csv"
-
 new_data.to_csv('data/train2_modified.csv')
-
-
-
-
-
 
 
