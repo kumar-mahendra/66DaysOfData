@@ -1,6 +1,6 @@
 ## 66DaysOfData 
 
-[`Day 01`](#day-01)  [`Day 02`](#day-02)  [`Day 03`](#day-03)   [`Day 04`](#day-04)    [`Day 05`](#day-05)    [`Day 06`](#day-06)   [`Day 07`](#day-07)    [`Day 08`](#day-08)    [`Day 09`](#day-09)    [`Day 10`](#day-10)   [`Day 11`](#day-11)   [`Day 11`](#day-11)   [`Day 12`](#day-12)   [`Day 13`](#day-13)   [`Day 14`](#day-14) [`Day 15`](#day-15) [`Day 16`](#day-16)
+[`Day 01`](#day-01)  [`Day 02`](#day-02)  [`Day 03`](#day-03)   [`Day 04`](#day-04)    [`Day 05`](#day-05)    [`Day 06`](#day-06)   [`Day 07`](#day-07)    [`Day 08`](#day-08)    [`Day 09`](#day-09)    [`Day 10`](#day-10)   [`Day 11`](#day-11)   [`Day 11`](#day-11)   [`Day 12`](#day-12)   [`Day 13`](#day-13)   [`Day 14`](#day-14) [`Day 15`](#day-15) [`Day 16`](#day-16) [`Day 17`](#day-17)
  
  
 Now in next 66 days I have some plans related to project I am going to work on along with my friends.
@@ -87,6 +87,9 @@ TBH I don't know even we can make this project a success but it is always good t
 [`Home`](#66DaysOfData)
 - Today we prepared basic layout of web-app using `dash framework` provided by `plotly`. also we updated the dataset by adding new diseases and corresponding descriptions, symptoms etc. Now we are ready with our dataset. Also discussed our plan of action for new few days. 
 
+### `Day 17` 
+[`Home`](#66DaysOfData)
+- Today we wrote some code to generate options that user will select from and update function to generate new options after every iteration.  
 
 ### References/ Research Paper 
 - [Disease prediction from various sources using ML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3661426)
