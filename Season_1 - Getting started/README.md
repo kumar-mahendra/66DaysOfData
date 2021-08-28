@@ -508,7 +508,7 @@ Lets get back to work.
 [`back to top`](#66DaysOfData)
 
 - participated in a coding competition . was able to solve only 1/4 question. 😞 
-- spent some time in doing case study - a part of Call for Case Study Competition by IIC Cell , IIT Goa.
+- spent some time in doing case study - a part of Call for Case Study Competition by IIC Cell , IIT Goa.[`Edit`-My team stands second in that competition]
 
 <br/>--------------------------------------------------------------------------------------------------------------<br/>
 
