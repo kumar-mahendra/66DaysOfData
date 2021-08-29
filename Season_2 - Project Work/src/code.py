@@ -6,8 +6,9 @@ Options = {}
 def get_options(selected_options=[]):
     global Options 
     Options = update_Options(selected_options,Options) 
+    # function to predict disease 
     new_options = [ {'label' : description, 'value': short_id} for short_id,description in Options.items() ]
-    return new_options 
+    return new_options     
 
 def update_Options(selected_options,Options):
     

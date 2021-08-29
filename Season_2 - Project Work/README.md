@@ -1,7 +1,8 @@
 ## **66DaysOfData**
 [`day 01`](#day-01)  [`day 02`](#day-02)  [`day 03`](#day-03)  [`day 04`](#day-04)  [`day 05`](#day-05)  [`day 06`](#day-06) 
 [`day 07`](#day-07)  [`day 08`](#day-08)  [`day 09`](#day-09)  [`day 10`](#day-10)  [`day 11`](#day-11)  [`day 12`](#day-12) <br>
-[`day 13`](#day-13)  [`day 14`](#day-14)  [`day 15`](#day-15)  [`day 16`](#day-16)  [`day 17`](#day-17)  [`day 18`](#day-18) 
+[`day 13`](#day-13)  [`day 14`](#day-14)  [`day 15`](#day-15)  [`day 16`](#day-16)  [`day 17`](#day-17)  [`day 18`](#day-18)
+[`day 19`](#day-19)  
 
  
 Now in next 66 days I have some plans related to project I am going to work on along with my friends.
@@ -95,6 +96,11 @@ TBH I don't know even we can make this project a success but it is always good t
 ### `Day 18`
 [`Home`](#66DaysOfData)
 - Today we wrote some more code to generate relevent options (symptoms in our cases) and connected this feature to dash_app. in each iteration user see some symptoms and based on his/her selection new symptoms will be provided. logic behind selection of new symptoms is simple but elgant. hope if someone in future read this than will appreciate our effort.
+
+### `Day 19`
+[`Home`](#66DaysOfData)
+- Today we used the code we already had for RandomForestModel to predict diseases and designed pipeline structure for flow of data from app to code and code to app . 
+
 
 
 ### References/ Research Paper 

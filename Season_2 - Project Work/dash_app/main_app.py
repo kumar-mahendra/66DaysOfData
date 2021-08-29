@@ -102,11 +102,11 @@ def callback(cur_options , selected_values, n_clicks):
         
         if (n_clicks):
                 global output 
-                new_options = get_options(selected_values)
                 if (len(selected_values)>0): 
                         output.selected_so_far.extend(selected_values)
                         print(output.selected_so_far)
                         selected_values = [] 
+                new_options = get_options(output.selected_so_far)
                 n_clicks = 0 
 
         return new_options, selected_values, n_clicks
