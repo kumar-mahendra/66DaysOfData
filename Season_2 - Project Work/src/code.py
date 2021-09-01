@@ -1,54 +1,64 @@
-import numpy as np 
 import pandas as pd 
+import numpy as np 
 
-Options = {}
+class Data() : 
+    def __init__(self) :
+        self.data = pd.read_csv('data/train_data.csv')
+        self.symptoms_df = pd.read_csv('data/Symptoms.csv')
+        self.code_sym = [col for col in self.data.columns if col!='Diseases']
+        self.descriptions = { col : list( self.symptoms_df[ self.symptoms_df['Code'] == col ]['Description'] )[0] \
+                                    for col in self.code_sym }
+        freq_counts = { col : self.data[col].sum() for col in self.code_sym}
+        self.freq_counts = {k: v for k,v in sorted(freq_counts.items(), key= lambda item : -item[1]) }
+        freq_counts_keys = list(self.freq_counts.keys())
+        
+        self.prev_options = np.random.choice(freq_counts_keys[:20],10, replace=False)
+        self.prev_options_des = [self.descriptions[col] for col in self.prev_options]
+        self.cur_options = [{'label':label , 'value':value } for label,value in zip(self.prev_options_des,self.prev_options) ]
+        self.rem_options = [col for col in self.code_sym ]
+        # self.selected_so_far = [] 
+        self.fig = dict({
+                        "data": [{"type": "bar",
+                        "x": [],
+                        "y": []}],
+                        "layout": {"title": {"text": "Disease vs their probabilities"}}
+                    })
+        self.female_symp = ['fm_'+str(i) for i in range(6) ]
 
-def get_options(selected_options=[]):
-    global Options 
-    Options = update_Options(selected_options,Options) 
-    # function to predict disease 
-    new_options = [ {'label' : description, 'value': short_id} for short_id,description in Options.items() ]
-    return new_options     
+   
+    def update_options(self, selected_options):
+        new_options = []
 
-def update_Options(selected_options,Options):
-    
-    global tmp , col_description 
+        # case-1 : No option selected 
+        if (len(selected_options) == 0 ):
+            self.rem_options = [col for col in self.rem_options if col not in self.prev_options]
+            new_options = self.rem_options[:6]
+            new_options.extend(self.rem_options[-1:-5:-1])
+            new_options = list(set(new_options))
+            self.prev_options = new_options 
 
-    new_selected_cols = [] 
+        # case - 2 : At least 1 options selected
+        elif(len(selected_options)>0):
+            self.rem_options = [col for col in self.rem_options if col not in self.prev_options]
+            tmp_data = self.data[ self.data[ selected_options ].sum(axis=1)>0 ][ self.rem_options ]
+            tmp_cols_sum = tmp_data.sum(axis=0)
+            tmp_cols_sum = tmp_cols_sum[tmp_cols_sum>0]
+            tmp_cols_sum= tmp_cols_sum.sort_values(ascending=False)
+            new_options = list(tmp_cols_sum.index[:6])
+            new_options.extend(list(tmp_cols_sum.index[-1:-5:-1]))
+            new_options = list(set(new_options))
+            self.prev_options = new_options 
 
-    # case-1 : No option selected 
-    if (len(selected_options) == 0 ):
-        tmp = [col for col in tmp if col not in Options]
-        new_selected_cols = tmp[:10]
+            del tmp_data, tmp_cols_sum 
 
-    # case - 2 : some options selected
-    elif(len(selected_options)>0):
-        tmp = [col for col in tmp if col not in Options]
-        tmp_data = data[data[selected_options].sum(axis=1)>0][tmp]
-        tmp_cols = tmp_data.sum(axis=0)
-        tmp_cols = tmp_cols[tmp_cols>0]
-        tmp_cols = tmp_cols.sort_values(ascending=False)
-        new_selected_cols = tmp_cols.index[:10]
-        # print(selected_symptoms)
+        
+        self.prev_options_des = [self.descriptions[col] for col in self.prev_options ]
+        self.cur_options = [{'label':label,'value':value} for label,value in zip(self.prev_options_des,self.prev_options)]
 
-    description_new_selected_cols = [col_description[col] for col in new_selected_cols]
-    new_options = {label:value for label,value in zip(new_selected_cols,description_new_selected_cols)}
-    return new_options 
+        del new_options
 
-PATH = 'data/diseases_with_symptoms.xlsx'
-data = pd.read_excel(PATH)
-data2 = pd.read_excel(PATH,sheet_name='Final_Symptoms')
+        return self.cur_options
 
-columns = [col for col in data.columns if col !='Diseases']
-col_description = { col : list(data2[data2['Code']==col]['Description'])[0] for col in columns } 
+dl = Data() 
+print(dl.freq_counts)
 
-
-freq_counts = { col : data[col].sum() for col in columns}
-freq_counts = {k: v for k,v in sorted(freq_counts.items(), key= lambda item : -item[1]) }
-freq_counts_keys = list(freq_counts.keys())
-
-selected_cols = np.random.choice(freq_counts_keys[:20],10, replace=False)
-description_selected_cols = [col_description[col] for col in selected_cols]
-Options = {label:value for label,value in zip(selected_cols,description_selected_cols)}
-
-tmp = freq_counts_keys 

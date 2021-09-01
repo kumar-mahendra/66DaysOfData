@@ -1,0 +1,208 @@
+Symptom,Description,Code
+,,
+breathing_problems ,pain in breathing,b_0
+,breathing faster than usual,b_1
+,shortness of breath,b_2
+,involuntary breathing stops for 1 minutes or more,b_3
+,breathlessness in certain posture/position,b_4
+,nostril widens while breathing,b_5
+,wheezing,b_6
+,high pitch sound while breathing,b_7
+,raspy and strained breathing,b_8
+,,
+eye_problems,iron deposition line seen in cornea (Stahli's line),e_0
+,bluish color of skin around eyes,e_1
+,unusual movement of eyes ,e_2
+,can only see one side of visual world of each eye,e_3
+,yellowish eye(s),e_4
+,dilation of pupil of eyes,e_5
+,rolling of eyes,e_6
+,abnormally small pupil under normal lighting,e_7
+,blurred vision,e_8
+,pain in back of the eyes,e_9
+,watering eyes,e_10
+,,
+swelling_problems,bone swelling in top join in fingers,sw_0
+,swelling in feet or hands due to fluid retention,sw_1
+,swelling in a body part(s),sw_2
+,painful swollen lump filled with pus,sw_3
+,joint pain,sw_4
+,,
+abdomen_problems,sudden pain in stomach,a_0
+,swelling in abdomen,a_1
+,feels pain when stomach is pressed,a_2
+,feels like fluid is collected in a region of stomach ,a_3
+,pain in inner side of stomach,a_4
+,discomfort lead to releasing unpleasent gases in air,a_5
+,digestion problem ,a_6
+,nausea,a_7
+,feeling full sooner than normal while eating,a_8
+,upper abdominal pain,a_9
+,lower abdominal pain,a_10
+,loss of appetite,a_11
+,,
+disorders_or_special_ability,can write using both hands simultaneously( ambidextirity),d_0
+,worry too much about what to eat  and weight gain,d_1
+,feeling distressed on even thought of throwing personal belongings,d_2
+,excessive sweating ,d_3
+,Inability to swallow or engulf  food,d_4
+,cannot smell anything,d_5
+,excessive hair growth in women (Hirsutism),d_6
+,characteristic of hiding your true self from world,d_7
+,ordinary sound feels too loud to ear,d_8
+,problem in movement,d_9
+,,
+heart_problems,slow heart rate,h_1
+,fast  heart  rate,h_2
+,irregular heartbeat,h_3
+,high BP ,h_4
+,low BP,h_5
+,abnormal enlargement of  heart,h_6
+,,
+,,
+chest_problems,chest pain,c_0
+,decreased chest movement during respiration,c_1
+,burning pain in chest,c_2
+,feeling pressure on chest,c_3
+,whistling or snoring sound heard in chest,c_4
+,dry cough,c_5
+,coughing with mucus,c_7
+,coughing green mucus,c_8
+,coughing with white mucus,c_9
+,mucus with blood,c_10
+,yellow mucus,c_11
+,,
+,,
+neurological_problems,lose of motor control of certain body part(s),nr_0
+,impaired balance or coordination,nr_1
+,slowness in automatic actions,nr_2
+,seizure,nr_3
+,abnormal sensations,nr_4
+,increase in motor activity,nr_5
+,"unable to express a set of well-structured, logically related ideas.",nr_6
+,slowing down of thought process,nr_7
+,state of nearly being unconcious,nr_8
+,hallucinations ,nr_9
+,feeling uncomfortable among people,nr_10
+,,
+skin_problems,pale skin,s_0
+,scars ,s_1
+,sweaty skin,s_2
+,bluish or greyish colour  in some part of skin,s_3
+,redness in skin,s_4
+,illusion that insect is crawling on skin,s_5
+,itching ,s_6
+,yellowing of skin,s_7
+,blue discoloration of skin ,s_8
+,decrease in sensability of skin touch,s_9
+,wrinkles ,s_10
+,blister or pimple on skin which may contain some fluid,s_11
+,red bumps on skin appers suddenly,s_12
+,burning senstation on skin,s_13
+,small dents/swelling in nails,s_14
+,peeling skin,s_15
+,,
+muscle_problems,muscles suddenly tightens ,m_0
+,pain in thigh or lower body while walking,m_1
+,inability to perform rapid alternative movements of muscle ,m_2
+,inability to move face muscle(s),m_3
+,automatic muscle contraction and/or  relexation ,m_4
+,weakness or lack of energy,m_5
+,abnormally increase in  muscle tone,m_6
+,involuntary muscle jerks,m_7
+,difficulty in movement of muscle,m_8
+,weight loss due to illness,m_9
+,partially unable to move legs,m_10
+,low back pain,m_11
+,stiffness of neck,m_12
+,numbness ( like in hand or some other part),m_13
+,pain along the nerve run down the leg(s),m_14
+,"involuntary shaking of hand , legs, face, head or vocal chords",m_15
+,constant burning pain in lower body ,m_16
+,become overweight,m_17
+,become underweight,m_18
+,,
+unnamed,involuntary flow of saliva outside mouth ,u_0
+,salvation increases,u_1
+,change in posture in bad way,u_2
+,vomiting,u_3
+,vomiting with blood,u_4
+,paralysis,u_5
+,pain in upper right region of body,u_6
+,enlarged thyroid gland,u_7
+,fainting or dizziness,u_8
+,sudden drop in body temperature,u_9
+,unusual high flexibility,u_10
+,incoherent,u_11
+,agitation,u_12
+,aggresiveness,u_13
+,distracted / unable to concentrate,u_14
+,blackout,u_15
+,fever,u_16
+,haemorrhage,u_17
+,phonophobia,u_18
+,photophobia,u_19
+,excessive thirst / hunger,u_20
+,excessive mucus secretion in back of nosal cavity/throat,u_21
+,pain in neck,u_22
+,teeth structure damanged after illness,u_23
+,experiencing ringing or other noises in ear(s),u_24
+,sneeze,u_25
+,snore,u_26
+,worried,u_27
+,sore throat,u_28
+,lesion,u_29
+,intoxication (especially by alcohol) ,u_30
+,anxiety,u_31
+,confusion,u_32
+,,
+excretion_problems,painful urination,ex_0
+,presence of fecal matter in urine,ex_1
+,blood in urine,ex_2
+,more urine output than usual,ex_3
+,less urine output than usual,ex_4
+,difficulty in starting or maintaining urine stream,ex_5
+,uncontrolled bowel movement,ex_6
+,bowel sound decreased (constipation),ex_7
+,gurgle sound in bowel movement,ex_8
+,uncontrolled urination,ex_9
+,blood in stool,ex_10
+,diarrhea,ex_11
+,stingy stool ,ex_12
+,yellow colored stool,ex_13
+,bed-wetting habit ,ex_14
+,white/chalky stool,ex_15
+,feeling that you need to pass stool even though bowels are empty,ex_16
+,pain / irritation in anus region,ex_17
+,,
+speech_problems,slurred speech,sp_0
+,"bleating voice (like sheep, goat etc.)",sp_1
+,phonophobia,sp_2
+,confusion while speaking,sp_3
+,,
+,,
+general_feelings,fear of heights,g_0
+,feeling hopeless,g_1
+,feeling sad ,g_2
+,feeling suicidal,g_3
+,feeling homicidal,g_4
+,discomfort,g_5
+,unsteadiness,g_6
+,feeling happy,g_7
+,feeling silly,g_8
+,feeling excited,g_9
+,headache,g_10
+,feeling depressed,g_11
+,excessive daytime sleepiness,g_12
+,feeling exhausted,g_13
+,feeling irritation,g_14
+,feels like vomiting but without throwing food outside,g_15
+,Severe chills accompanied by vigorous shaking.,g_16
+,sleeplessness,g_17
+,,
+female_related,intermenstrual_heavy_bleeding,fm_0
+,mass_in_breast,fm_1
+,no pregnency,fm_2
+,increased estrogen use ,fm_3
+,bleeding of vagina ,fm_4
+,abnormal mentruation,fm_5

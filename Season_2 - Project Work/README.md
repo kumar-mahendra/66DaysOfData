@@ -2,7 +2,8 @@
 [`day 01`](#day-01)  [`day 02`](#day-02)  [`day 03`](#day-03)  [`day 04`](#day-04)  [`day 05`](#day-05)  [`day 06`](#day-06) 
 [`day 07`](#day-07)  [`day 08`](#day-08)  [`day 09`](#day-09)  [`day 10`](#day-10)  [`day 11`](#day-11)  [`day 12`](#day-12) <br>
 [`day 13`](#day-13)  [`day 14`](#day-14)  [`day 15`](#day-15)  [`day 16`](#day-16)  [`day 17`](#day-17)  [`day 18`](#day-18)
-[`day 19`](#day-19)  
+[`day 19`](#day-19)  [`day 20`](#day-20)  
+
 
  
 Now in next 66 days I have some plans related to project I am going to work on along with my friends.
@@ -101,6 +102,9 @@ TBH I don't know even we can make this project a success but it is always good t
 [`Home`](#66DaysOfData)
 - Today we used the code we already had for RandomForestModel to predict diseases and designed pipeline structure for flow of data from app to code and code to app . 
 
+### `Day 20`
+[`Home`](#66DaysOfData)
+- Finally we are done with basic prototype of app. The main problem with model right now is suggestion of relevent symptoms to user after he select few symptoms corresponding to his/her disease . I hope soon we will past this phase and then we will think about deployment of app. till then stay tuned!
 
 
 ### References/ Research Paper 
