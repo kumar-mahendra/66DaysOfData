@@ -26,7 +26,6 @@ class Model :
             for i in range(5) : 
                 res[i][0] = self.le.inverse_transform([res[i][0]])[0]    
             res = pd.DataFrame(res,columns=['Disease','Prob'])
-            # print(res.head())
             return res 
         
 cl = Model()   

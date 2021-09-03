@@ -2,10 +2,9 @@
 [`day 01`](#day-01)  [`day 02`](#day-02)  [`day 03`](#day-03)  [`day 04`](#day-04)  [`day 05`](#day-05)  [`day 06`](#day-06) 
 [`day 07`](#day-07)  [`day 08`](#day-08)  [`day 09`](#day-09)  [`day 10`](#day-10)  [`day 11`](#day-11)  [`day 12`](#day-12) <br>
 [`day 13`](#day-13)  [`day 14`](#day-14)  [`day 15`](#day-15)  [`day 16`](#day-16)  [`day 17`](#day-17)  [`day 18`](#day-18)
-[`day 19`](#day-19)  [`day 20`](#day-20)  
+[`day 19`](#day-19)  [`day 20`](#day-20)  [`day 21`](#day-21)  [`day 22`](#day-22)  
 
 
- 
 Now in next 66 days I have some plans related to project I am going to work on along with my friends.
 TBH I don't know even we can make this project a success but it is always good to give it a shot . 
 
@@ -105,6 +104,14 @@ TBH I don't know even we can make this project a success but it is always good t
 ### `Day 20`
 [`Home`](#66DaysOfData)
 - Finally we are done with basic prototype of app. The main problem with model right now is suggestion of relevent symptoms to user after he select few symptoms corresponding to his/her disease . I hope soon we will past this phase and then we will think about deployment of app. till then stay tuned!
+
+### `Day 21`
+[`Home`](#66DaysOfData)
+- Today I started a new course(infact one of top 5 courses on GitHub) on MLOps by [GokuMohandas](https://github.com/GokuMohandas/MLOps) . This course is like gold. and important thing is this is project based course and also has features similar to my projects and will finish after pushing code in production. Never such course ever. and it is FREE. If you are new to MLOps highly recommended.  will do this course in next few days. and implemented ideas gathered in my project. 
+
+### `Day 22`
+[`Home`](#66DaysOfData)
+- Today I performed some EDA on given data to understand the dataset better.
 
 
 ### References/ Research Paper 
