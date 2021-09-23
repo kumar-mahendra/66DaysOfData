@@ -2,8 +2,10 @@
 [`day 01`](#day-01)  [`day 02`](#day-02)  [`day 03`](#day-03)  [`day 04`](#day-04)  [`day 05`](#day-05)  [`day 06`](#day-06) 
 [`day 07`](#day-07)  [`day 08`](#day-08)  [`day 09`](#day-09)  [`day 10`](#day-10)  [`day 11`](#day-11)  [`day 12`](#day-12) <br>
 [`day 13`](#day-13)  [`day 14`](#day-14)  [`day 15`](#day-15)  [`day 16`](#day-16)  [`day 17`](#day-17)  [`day 18`](#day-18)
-[`day 19`](#day-19)  [`day 20`](#day-20)  [`day 21`](#day-21)  [`day 22`](#day-22)  
+[`day 19`](#day-19)  [`day 20`](#day-20)  [`day 21`](#day-21)  [`day 22`](#day-22)  [`day 23`](#day-23)  [`day 24`](#day-24) <br>
+[`day 25`](#day-25)    
 
+**You can also see my [Serious-SQL Repository](https://github.com/kumar-mahendra/serious-sql) where I am updating my MySQL journey.** 
 
 Now in next 66 days I have some plans related to project I am going to work on along with my friends.
 TBH I don't know even we can make this project a success but it is always good to give it a shot . 
@@ -112,6 +114,21 @@ TBH I don't know even we can make this project a success but it is always good t
 ### `Day 22`
 [`Home`](#66DaysOfData)
 - Today I performed some EDA on given data to understand the dataset better.
+
+
+### `Day 22`
+[`Home`](#66DaysOfData)
+- Today I started "Serious-SQL" course by Danny Ma. set-up docker and Sql environment. It is considered one of the most important skill for any data role. so lets do it simultaneously. 
+
+
+### `Day 22`
+[`Home`](#66DaysOfData)
+- learnt about quering dataset using `SELECT` order sort output data using `ORDER BY`. 
+
+
+### `Day 23`
+[`Home`](#66DaysOfData)
+- today learnt about exploring dataset using `COUNT` , `SUM` and `GROUP BY` . Also saw usage of `DISTINCT` & `AS` keywords. 
 
 
 ### References/ Research Paper 
